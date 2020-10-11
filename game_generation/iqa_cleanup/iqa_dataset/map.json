@@ -1,0 +1,40 @@
+{
+  "kitchen": [
+    "livingroom",
+    "backyard",
+    "corridor",
+    "pantry"
+  ],
+  "pantry": [
+    "kitchen"
+  ],
+  "livingroom": [
+    "kitchen",
+    "bedroom",
+    "corridor"
+  ],
+  "bathroom": [
+    "corridor",
+    "laundry room"
+  ],
+  "bedroom": [
+    "livingroom",
+    "corridor"
+  ],
+  "backyard": [
+    "kitchen",
+    "corridor"
+  ],
+  "corridor": [
+    "livingroom",
+    "kitchen",
+    "bedroom",
+    "bathroom",
+    "backyard",
+    "laundry room"
+  ],
+  "laundry room": [
+    "corridor",
+    "bathroom"
+  ]
+}

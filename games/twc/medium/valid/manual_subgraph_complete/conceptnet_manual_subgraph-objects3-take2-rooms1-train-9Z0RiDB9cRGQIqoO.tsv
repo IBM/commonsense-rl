@@ -1,0 +1,17 @@
+onion	isa	vegetable
+onion	relatedto	vegetable
+vegetable	isa	food
+vegetable	relatedto	food
+red_pepper	isa	pepper
+pepper	isa	spice
+pepper	relatedto	spice
+spice	relatedto	food
+pepper	antonym	salt
+pepper	distinctfrom	salt
+pepper	relatedto	salt
+salt	atlocation	shelf
+pepper	isa	fruit
+fruit	atlocation	pantry
+black_pepper	isa	pepper
+black_pepper	synonym	pepper
+food	atlocation	shelf

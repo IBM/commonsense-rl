@@ -1,0 +1,11 @@
+shoes	formof	shoe
+shoes	relatedto	shoe
+shoes	atlocation	box
+cabinet	isa	box
+shoes	atlocation	closet
+closet	relatedto	cabinet
+closet	synonym	cabinet
+cap	relatedto	head
+head	relatedto	hat
+head	usedfor	hat
+hat	atlocation	hat_rack

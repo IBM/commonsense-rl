@@ -1,0 +1,417 @@
+{
+  "fridge": {
+    "type": "c",
+    "adjs": [
+      "conventional"
+    ],
+    "locations": [
+      "kitchen"
+    ],
+    "properties": [
+      "closed"
+    ]
+  },
+  "counter": {
+    "type": "s",
+    "adjs": [
+      "vast"
+    ],
+    "locations": [
+      "kitchen"
+    ]
+  },
+  "dining table": {
+    "type": "s",
+    "adjs": [
+      "massive"
+    ],
+    "locations": [
+      "kitchen"
+    ]
+  },
+  "ladderback chair": {
+    "type": "s",
+    "adjs": [
+      "solid"
+    ],
+    "locations": [
+      "kitchen"
+    ]
+  },
+  "dining chair": {
+    "type": "s",
+    "adjs": [
+      "solid"
+    ],
+    "locations": [
+      "kitchen"
+    ]
+  },
+  "stove": {
+    "type": "s",
+    "adjs": [
+      "conventional"
+    ],
+    "locations": [
+      "kitchen"
+    ]
+  },
+  "oven": {
+    "type": "c",
+    "locations": [
+      "kitchen"
+    ],
+    "properties": [
+      "closed"
+    ]
+  },
+  "kitchen cupboard": {
+    "type": "c",
+    "adjs": [
+      "conventional"
+    ],
+    "locations": [
+      "kitchen"
+    ]
+  },
+  "dishwasher": {
+    "type": "c",
+    "locations": [
+      "kitchen"
+    ]
+  },
+  "cutlery drawer": {
+    "type": "c",
+    "locations": [
+      "kitchen"
+    ]
+  },
+  "trash can": {
+    "type": "c",
+    "locations": [
+      "kitchen"
+    ]
+  },
+  "sofa": {
+    "type": "s",
+    "adjs": [
+      "comfy"
+    ],
+    "locations": [
+      "livingroom"
+    ]
+  },
+  "end table": {
+    "type": "s",
+    "adjs": [
+      "wooden",
+      "solid"
+    ],
+    "locations": [
+      "livingroom"
+    ],
+    "properties": []
+  },
+  "coffee table": {
+    "type": "s",
+    "adjs": [
+      "small"
+    ],
+    "locations": [
+      "livingroom"
+    ],
+    "properties": []
+  },
+  "side table": {
+    "type": "s",
+    "adjs": [
+      "wooden, small"
+    ],
+    "locations": [
+      "livingroom"
+    ],
+    "properties": []
+  },
+  "grey carpet": {
+    "type": "s",
+    "locations": [
+      "livingroom"
+    ],
+    "properties": []
+  },
+  "armchair": {
+    "type": "s",
+    "adjs": [
+      "comfortable"
+    ],
+    "locations": [
+      "livingroom"
+    ]
+  },
+  "TV stand": {
+    "type": "s",
+    "locations": [
+      "livingroom"
+    ]
+  },
+  "bookcase": {
+    "type": "c",
+    "locations": [
+      "livingroom"
+    ]
+  },
+  "wastepaper basket": {
+    "type": "c",
+    "locations": [
+      "livingroom"
+    ]
+  },
+  "coat hanger": {
+    "type": "s",
+    "locations": [
+      "corridor"
+    ]
+  },
+  "hat rack": {
+    "type": "s",
+    "locations": [
+      "corridor"
+    ]
+  },
+  "umbrella stand": {
+    "type": "s",
+    "locations": [
+      "corridor"
+    ]
+  },
+  "shoe cabinet": {
+    "type": "c",
+    "locations": [
+      "corridor"
+    ]
+  },
+  "key holder": {
+    "type": "s",
+    "locations": [
+      "corridor"
+    ]
+  },
+  "bed": {
+    "type": "s",
+    "adjs": [
+      "large"
+    ],
+    "locations": [
+      "bedroom"
+    ]
+  },
+  "nightstand": {
+    "type": "s",
+    "locations": [
+      "bedroom"
+    ]
+  },
+  "wardrobe": {
+    "type": "c",
+    "adjs": [
+      "large"
+    ],
+    "locations": [
+      "bedroom"
+    ]
+  },
+  "chest of drawers": {
+    "type": "c",
+    "locations": [
+      "bedroom"
+    ]
+  },
+  "desk": {
+    "type": "s",
+    "locations": [
+      "bedroom"
+    ]
+  },
+  "desk chair": {
+    "type": "s",
+    "locations": [
+      "bedroom"
+    ]
+  },
+  "dark carpet": {
+    "type": "s",
+    "locations": [
+      "bedroom"
+    ]
+  },
+  "toilet": {
+    "type": "s",
+    "adjs": [
+      "white"
+    ],
+    "locations": [
+      "bathroom"
+    ]
+  },
+  "bathroom cabinet": {
+    "type": "c",
+    "locations": [
+      "bathroom"
+    ]
+  },
+  "pedal bin": {
+    "type": "c",
+    "locations": [
+      "bathroom"
+    ]
+  },
+  "shower": {
+    "type": "c",
+    "locations": [
+      "bathroom"
+    ]
+  },
+  "bathtub": {
+    "type": "s",
+    "locations": [
+      "bathroom"
+    ]
+  },
+  "towel rail": {
+    "type": "s",
+    "locations": [
+      "bathroom"
+    ]
+  },
+  "toilet roll holder": {
+    "type": "s",
+    "locations": [
+      "bathroom"
+    ]
+  },
+  "bath mat": {
+    "type": "s",
+    "locations": [
+      "bathroom"
+    ]
+  },
+  "wall hook": {
+    "type": "s",
+    "locations": [
+      "bathroom"
+    ]
+  },
+  "sink": {
+    "type": "s",
+    "locations": [
+      "bathroom"
+    ]
+  },
+  "dressing table": {
+    "type": "s",
+    "locations": [
+      "bathroom",
+      "bedroom"
+    ]
+  },
+  "washing machine": {
+    "type": "c",
+    "locations": [
+      "laundry room"
+    ]
+  },
+  "laundry basket": {
+    "type": "c",
+    "locations": [
+      "laundry room"
+    ]
+  },
+  "clothesline": {
+    "type": "s",
+    "locations": [
+      "backyard"
+    ]
+  },
+  "clothes drier": {
+    "type": "c",
+    "locations": [
+      "laundry room"
+    ]
+  },
+  "work table": {
+    "type": "s",
+    "locations": [
+      "laundry room"
+    ]
+  },
+  "bench": {
+    "type": "s",
+    "adjs": "wooden",
+    "locations": [
+      "laundry room"
+    ]
+  },
+  "suspended shelf": {
+    "type": "s",
+    "locations": [
+      "laundry room"
+    ]
+  },
+  "shelf": {
+    "type": "s",
+    "adjs": [
+      "wooden"
+    ],
+    "locations": [
+      "pantry"
+    ],
+    "properties": []
+  },
+  "folding chair": {
+    "type": "s",
+    "adjs": [
+      "wooden"
+    ],
+    "locations": [
+      "pantry"
+    ],
+    "properties": []
+  },
+  "patio table": {
+    "type": "s",
+    "adjs": [
+      "stylish"
+    ],
+    "locations": [
+      "backyard"
+    ]
+  },
+  "patio chair": {
+    "type": "s",
+    "adjs": [
+      "stylish"
+    ],
+    "locations": [
+      "backyard"
+    ]
+  },
+  "BBQ": {
+    "type": "s",
+    "adjs": [
+      "recent"
+    ],
+    "locations": [
+      "backyard"
+    ]
+  },
+  "workbench": {
+    "type": "s",
+    "adjs": [
+      "wooden"
+    ],
+    "locations": [
+      "backyard"
+    ],
+    "properties": []
+  }
+}

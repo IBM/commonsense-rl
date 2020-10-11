@@ -1,0 +1,17 @@
+bread_basket	derivedfrom	basket
+basket	atlocation	kitchen
+bread_basket	formof	breadbasket
+breadbasket	relatedto	food
+food	atlocation	kitchen
+food	relatedto	kitchen
+bread	atlocation	basket
+bread	isa	food
+bread	relatedto	food
+food	atlocation	cupboard
+basket	isa	container
+basket	relatedto	container
+container	atlocation	cupboard
+basket	relatedto	food
+bell_pepper	isa	pepper
+pepper	isa	fruit
+fruit	atlocation	fridge

@@ -1,0 +1,44 @@
+[
+  {
+    "path": [
+      "pantry",
+      "kitchen"
+    ],
+    "names": [
+      "frosted-glass door",
+      "plain door"
+    ]
+  },
+  {
+    "path": [
+      "kitchen",
+      "backyard"
+    ],
+    "names": [
+      "sliding patio door",
+      "patio door",
+      "screen door"
+    ]
+  },
+  {
+    "path": [
+      "corridor",
+      "backyard"
+    ],
+    "names": [
+      "sliding patio door",
+      "patio door",
+      "screen door"
+    ]
+  },
+  {
+    "path": [
+      "backyard",
+      "shed"
+    ],
+    "names": [
+      "barn door",
+      "wooden door"
+    ]
+  }
+]

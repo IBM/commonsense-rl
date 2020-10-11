@@ -1,0 +1,9 @@
+jumper	atlocation	clothesline
+skirt	atlocation	clothesline
+cake_slice	atlocation	dishwasher
+milk	atlocation	fridge
+spoon	atlocation	cutlery_drawer
+wooden_spoon	atlocation	cutlery_drawer
+pot	atlocation	kitchen_cupboard
+pot	atlocation	dishwasher
+dirty_pot	atlocation	dishwasher

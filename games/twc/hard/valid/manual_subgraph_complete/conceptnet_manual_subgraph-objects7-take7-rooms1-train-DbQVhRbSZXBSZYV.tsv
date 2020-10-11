@@ -1,0 +1,12 @@
+dress	atlocation	wardrobe
+t_shirt	atlocation	wardrobe
+duvet	atlocation	wardrobe
+blazer	atlocation	wardrobe
+duvet	atlocation	chest_of_drawers
+duvet	atlocation	bed
+blanket	atlocation	wardrobe
+blanket	atlocation	chest_of_drawers
+blanket	atlocation	bed
+gloves	atlocation	chest_of_drawers
+bra	atlocation	wardrobe
+bra	atlocation	chest_of_drawers

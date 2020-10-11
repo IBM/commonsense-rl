@@ -1,0 +1,14 @@
+shirt	partof	wardrobe
+shirt	isa	clothes
+wardrobe	relatedto	clothes
+shirt	atlocation	closet
+closet	relatedto	wardrobe
+closet	synonym	wardrobe
+shirt	atlocation	dresser
+dresser	relatedto	wardrobe
+shirt	atlocation	garderobe
+garderobe	relatedto	wardrobe
+shirt	mannerof	dress
+dress	relatedto	wardrobe
+shirt	relatedto	clothing
+wardrobe	relatedto	clothing

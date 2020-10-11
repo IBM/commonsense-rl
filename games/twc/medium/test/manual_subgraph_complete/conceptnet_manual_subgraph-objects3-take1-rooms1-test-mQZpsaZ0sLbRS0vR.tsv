@@ -1,0 +1,16 @@
+polo_shirt	etymologicallyrelatedto	shirt
+polo_shirt	isa	shirt
+polo_shirt	derivedfrom	polo
+polo_shirt	etymologicallyrelatedto	polo
+polo	relatedto	clothes
+sheath_dress	relatedto	dress
+dress	isa	clothing
+dress	relatedto	clothing
+shirt	relatedto	clothing
+clothing	atlocation	clothesline
+clothesline	derivedfrom	clothes
+wet	antonym	dry
+wet	distinctfrom	dry
+wet	relatedto	dry
+clotheshorse	relatedto	dry
+clothesline	relatedto	clotheshorse

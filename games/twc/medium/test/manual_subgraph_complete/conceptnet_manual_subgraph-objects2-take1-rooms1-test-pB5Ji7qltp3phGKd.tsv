@@ -1,0 +1,13 @@
+top_hat	synonym	dress_hat
+dress_hat	isa	hat
+hat	atlocation	hat_rack
+moccasins	formof	moccasin
+moccasins	relatedto	moccasin
+moccasin	relatedto	shoe
+shoes	formof	shoe
+shoes	relatedto	shoe
+shoes	atlocation	closet
+closet	relatedto	cabinet
+closet	synonym	cabinet
+shoes	atlocation	box
+cabinet	isa	box

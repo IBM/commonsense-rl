@@ -1,0 +1,12 @@
+raincoat	isa	coat
+raincoat	relatedto	coat
+trench_coat	isa	raincoat
+trench_coat	relatedto	raincoat
+coat	atlocation	closet
+coat	relatedto	closet
+coat_hanger	atlocation	closet
+coat	atlocation	coat_rack
+coat_rack	relatedto	hook
+hook	partof	coat_hanger
+coat	derivedfrom	coathook
+coathook	relatedto	hook

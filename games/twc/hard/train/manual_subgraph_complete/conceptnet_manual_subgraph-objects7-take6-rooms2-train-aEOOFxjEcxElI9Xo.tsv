@@ -1,0 +1,11 @@
+t_shirt	atlocation	washing_machine
+t_shirt	atlocation	laundry_basket
+cap	atlocation	hat_rack
+white_cap	atlocation	hat_rack
+dress	atlocation	laundry_basket
+dress	atlocation	washing_machine
+cardigan	atlocation	laundry_basket
+cardigan	atlocation	washing_machine
+shirt	atlocation	washing_machine
+shirt	atlocation	laundry_basket
+dress	atlocation	clothes_drier

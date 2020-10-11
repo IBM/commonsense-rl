@@ -1,0 +1,5 @@
+scarf	isa	clothing
+clothing	atlocation	closet
+coat_hanger	atlocation	closet
+scarf	isa	neckwear
+neckwear	atlocation	closet

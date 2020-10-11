@@ -1,0 +1,303 @@
+{
+  "knife": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "adjs": [
+      "sharp"
+    ],
+    "locations": [
+      "cutlery drawer"
+    ]
+  },
+  "fork": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "cutlery drawer"
+    ]
+  },
+  "bowl": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "kitchen cupboard"
+    ]
+  },
+  "cup": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "kitchen cupboard"
+    ]
+  },
+  "mug": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "kitchen cupboard"
+    ]
+  },
+  "glass": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "kitchen cupboard"
+    ]
+  },
+  "plate": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "kitchen cupboard"
+    ]
+  },
+  "pot": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "kitchen cupboard"
+    ]
+  },
+  "pan": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "kitchen cupboard"
+    ]
+  },
+  "saucepan": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "kitchen cupboard"
+    ]
+  },
+  "can opener": {
+    "locations": [
+      "cutlery drawer",
+      "kitchen cupboard"
+    ]
+  },
+  "potato peeler": {
+    "locations": [
+      "cutlery drawer",
+      "kitchen cupboard"
+    ]
+  },
+  "rolling pin": {
+    "locations": [
+      "cutlery drawer",
+      "kitchen cupboard"
+    ]
+  },
+  "plastic cup": {
+    "modifiers": [
+      "used"
+    ],
+    "locations": [
+      "kitchen cupboard"
+    ]
+  },
+  "plastic plate": {
+    "modifiers": [
+      "used"
+    ],
+    "locations": [
+      "kitchen cupboard"
+    ]
+  },
+  "toaster": {
+    "locations": [
+      "counter"
+    ]
+  },
+  "kettle": {
+    "locations": [
+      "kitchen cupboard",
+      "counter"
+    ]
+  },
+  "mixer": {
+    "locations": [
+      "kitchen cupboard",
+      "counter"
+    ]
+  },
+  "blender": {
+    "locations": [
+      "kitchen cupboard",
+      "counter"
+    ]
+  },
+  "apron": {
+    "locations": [
+      "kitchen cupboard"
+    ]
+  },
+  "bread basket": {
+    "locations": [
+      "kitchen cupboard"
+    ]
+  },
+  "roasting tray": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "kitchen cupboard",
+      "oven"
+    ]
+  },
+  "spice container": {
+    "locations": [
+      "kitchen cupboard",
+      "pantry.shelf"
+    ]
+  },
+  "chopping board": {
+    "locations": [
+      "kitchen cupboard",
+      "counter"
+    ]
+  },
+  "grater": {
+    "locations": [
+      "kitchen cupboard"
+    ]
+  },
+  "pie plate": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "kitchen cupboard"
+    ]
+  },
+  "salad spinner": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "kitchen cupboard"
+    ]
+  },
+  "colander": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "kitchen cupboard"
+    ]
+  },
+  "oven glove": {
+    "locations": [
+      "kitchen cupboard"
+    ]
+  },
+  "whisk": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "cutlery drawer"
+    ]
+  },
+  "wooden spoon": {
+    "locations": [
+      "cutlery drawer"
+    ]
+  },
+  "strainer": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "cutlery drawer"
+    ]
+  },
+  "spoon": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "cutlery drawer"
+    ]
+  },
+  "spatula": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "cutlery drawer"
+    ]
+  },
+  "mesh skimmer": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "cutlery drawer"
+    ]
+  },
+  "cleaver": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "cutlery drawer"
+    ]
+  },
+  "ladle": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "cutlery drawer"
+    ]
+  },
+  "kitchen shears": {
+    "locations": [
+      "cutlery drawer"
+    ]
+  },
+  "corkscrew": {
+    "locations": [
+      "kitchen cupboard",
+      "cutlery drawer"
+    ]
+  },
+  "cake slice": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "cutlery drawer"
+    ]
+  },
+  "frying pan": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "kitchen cupboard"
+    ]
+  },
+  "pressure cooker": {
+    "modifiers": [
+      "dirty kitchenware"
+    ],
+    "locations": [
+      "kitchen cupboard"
+    ]
+  }
+}

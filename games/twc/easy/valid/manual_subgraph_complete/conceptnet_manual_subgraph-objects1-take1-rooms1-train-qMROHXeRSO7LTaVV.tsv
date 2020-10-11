@@ -1,0 +1,9 @@
+dress	isa	clothing
+dress	relatedto	clothing
+clothing	atlocation	clothesline
+clothesline	derivedfrom	clothes
+wet	antonym	dry
+wet	distinctfrom	dry
+wet	relatedto	dry
+clotheshorse	relatedto	dry
+clothesline	relatedto	clotheshorse

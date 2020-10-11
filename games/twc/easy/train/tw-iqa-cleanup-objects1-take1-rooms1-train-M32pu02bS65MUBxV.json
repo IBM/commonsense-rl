@@ -1,0 +1,527 @@
+{
+  "version": 1,
+  "world": [
+    {
+      "name": "at",
+      "arguments": [
+        {
+          "name": "P",
+          "type": "P"
+        },
+        {
+          "name": "r_0",
+          "type": "r"
+        }
+      ]
+    },
+    {
+      "name": "at",
+      "arguments": [
+        {
+          "name": "c_0",
+          "type": "c"
+        },
+        {
+          "name": "r_0",
+          "type": "r"
+        }
+      ]
+    },
+    {
+      "name": "at",
+      "arguments": [
+        {
+          "name": "c_1",
+          "type": "c"
+        },
+        {
+          "name": "r_0",
+          "type": "r"
+        }
+      ]
+    },
+    {
+      "name": "at",
+      "arguments": [
+        {
+          "name": "c_2",
+          "type": "c"
+        },
+        {
+          "name": "r_0",
+          "type": "r"
+        }
+      ]
+    },
+    {
+      "name": "at",
+      "arguments": [
+        {
+          "name": "s_0",
+          "type": "s"
+        },
+        {
+          "name": "r_0",
+          "type": "r"
+        }
+      ]
+    },
+    {
+      "name": "at",
+      "arguments": [
+        {
+          "name": "s_1",
+          "type": "s"
+        },
+        {
+          "name": "r_0",
+          "type": "r"
+        }
+      ]
+    },
+    {
+      "name": "at",
+      "arguments": [
+        {
+          "name": "s_2",
+          "type": "s"
+        },
+        {
+          "name": "r_0",
+          "type": "r"
+        }
+      ]
+    },
+    {
+      "name": "free",
+      "arguments": [
+        {
+          "name": "slot_0",
+          "type": "slot"
+        }
+      ]
+    },
+    {
+      "name": "free",
+      "arguments": [
+        {
+          "name": "slot_1",
+          "type": "slot"
+        }
+      ]
+    },
+    {
+      "name": "on",
+      "arguments": [
+        {
+          "name": "o_0",
+          "type": "o"
+        },
+        {
+          "name": "s_1",
+          "type": "s"
+        }
+      ]
+    },
+    {
+      "name": "open",
+      "arguments": [
+        {
+          "name": "c_0",
+          "type": "c"
+        }
+      ]
+    },
+    {
+      "name": "open",
+      "arguments": [
+        {
+          "name": "c_1",
+          "type": "c"
+        }
+      ]
+    },
+    {
+      "name": "open",
+      "arguments": [
+        {
+          "name": "c_2",
+          "type": "c"
+        }
+      ]
+    }
+  ],
+  "grammar": {
+    "theme": "house",
+    "names_to_exclude": [
+      "",
+      "laundry basket",
+      "bench",
+      null,
+      "laundry room",
+      "washing machine",
+      "work table",
+      "suspended shelf",
+      "dirty gray underpants",
+      "clothes drier"
+    ],
+    "include_adj": false,
+    "blend_descriptions": false,
+    "ambiguous_instructions": false,
+    "only_last_action": false,
+    "blend_instructions": false,
+    "allowed_variables_numbering": false,
+    "unique_expansion": false
+  },
+  "quests": [
+    {
+      "desc": "",
+      "reward": 1,
+      "commands": [],
+      "win_events": [
+        {
+          "commands": [],
+          "actions": [],
+          "condition": {
+            "name": "trigger",
+            "preconditions": [
+              {
+                "name": "in",
+                "arguments": [
+                  {
+                    "name": "o_0",
+                    "type": "o"
+                  },
+                  {
+                    "name": "c_0",
+                    "type": "c"
+                  }
+                ]
+              }
+            ],
+            "postconditions": [
+              {
+                "name": "in",
+                "arguments": [
+                  {
+                    "name": "o_0",
+                    "type": "o"
+                  },
+                  {
+                    "name": "c_0",
+                    "type": "c"
+                  }
+                ]
+              },
+              {
+                "name": "event",
+                "arguments": [
+                  {
+                    "name": "c_0",
+                    "type": "c"
+                  },
+                  {
+                    "name": "o_0",
+                    "type": "o"
+                  }
+                ]
+              }
+            ],
+            "command_template": null,
+            "reverse_name": null,
+            "reverse_command_template": null
+          }
+        },
+        {
+          "commands": [],
+          "actions": [],
+          "condition": {
+            "name": "trigger",
+            "preconditions": [
+              {
+                "name": "in",
+                "arguments": [
+                  {
+                    "name": "o_0",
+                    "type": "o"
+                  },
+                  {
+                    "name": "c_1",
+                    "type": "c"
+                  }
+                ]
+              }
+            ],
+            "postconditions": [
+              {
+                "name": "in",
+                "arguments": [
+                  {
+                    "name": "o_0",
+                    "type": "o"
+                  },
+                  {
+                    "name": "c_1",
+                    "type": "c"
+                  }
+                ]
+              },
+              {
+                "name": "event",
+                "arguments": [
+                  {
+                    "name": "c_1",
+                    "type": "c"
+                  },
+                  {
+                    "name": "o_0",
+                    "type": "o"
+                  }
+                ]
+              }
+            ],
+            "command_template": null,
+            "reverse_name": null,
+            "reverse_command_template": null
+          }
+        }
+      ],
+      "fail_events": []
+    }
+  ],
+  "infos": [
+    [
+      "P",
+      {
+        "id": "P",
+        "type": "P",
+        "name": null,
+        "noun": null,
+        "adj": null,
+        "desc": null,
+        "room_type": "storage",
+        "definite": null,
+        "indefinite": null,
+        "synonyms": null
+      }
+    ],
+    [
+      "I",
+      {
+        "id": "I",
+        "type": "I",
+        "name": null,
+        "noun": null,
+        "adj": null,
+        "desc": null,
+        "room_type": null,
+        "definite": null,
+        "indefinite": null,
+        "synonyms": null
+      }
+    ],
+    [
+      "r_0",
+      {
+        "id": "r_0",
+        "type": "r",
+        "name": "laundry room",
+        "noun": null,
+        "adj": null,
+        "desc": "You find yourself in a laundry room. An usual one. Okay, just remember what you're here to do, and everything will go great.\n\n You make out a washing machine.[if c_0 is open and there is something in the c_0] The washing machine contains [a list of things in the c_0].[end if][if c_0 is open and the c_0 contains nothing] Empty! What kind of nightmare TextWorld is this?[end if] You can make out [if c_1 is locked]a locked[else if c_1 is open]an opened[otherwise]a closed[end if] laundry basket.[if c_1 is open and there is something in the c_1] The laundry basket contains [a list of things in the c_1].[end if][if c_1 is open and the c_1 contains nothing] Empty! What kind of nightmare TextWorld is this?[end if] You make out a clothes drier.[if c_2 is open and there is something in the c_2] The clothes drier contains [a list of things in the c_2]. There's something strange about this being here, but you can't put your finger on it.[end if][if c_2 is open and the c_2 contains nothing] The clothes drier is empty! This is the worst thing that could possibly happen, ever![end if] You scan the room, seeing a suspended shelf. [if there is something on the s_0]You see [a list of things on the s_0] on the suspended shelf.[end if][if there is nothing on the s_0]Unfortunately, there isn't a thing on it.[end if] You see a work table. [if there is something on the s_1]On the work table you can see [a list of things on the s_1].[end if][if there is nothing on the s_1]But the thing is empty, unfortunately. Oh! Why couldn't there just be stuff on it?[end if] You make out a bench. [if there is something on the s_2]On the bench you make out [a list of things on the s_2].[end if][if there is nothing on the s_2]Looks like someone's already been here and taken everything off it, though. Aw, here you were, all excited for there to be things on it![end if]\n\n",
+        "room_type": "storage",
+        "definite": null,
+        "indefinite": null,
+        "synonyms": null
+      }
+    ],
+    [
+      "c_0",
+      {
+        "id": "c_0",
+        "type": "c",
+        "name": "washing machine",
+        "noun": "washing machine",
+        "adj": null,
+        "desc": "The [noun] looks imposing. [if open]You can see inside it.[else if locked]There is a lock on it and seems impossible to crack open.[otherwise]You can't see inside it because the lid's in your way.[end if]",
+        "room_type": "storage",
+        "definite": null,
+        "indefinite": null,
+        "synonyms": null
+      }
+    ],
+    [
+      "c_1",
+      {
+        "id": "c_1",
+        "type": "c",
+        "name": "laundry basket",
+        "noun": "laundry basket",
+        "adj": null,
+        "desc": "The [noun] looks robust. [if open]It is open.[else if locked]It is locked.[otherwise]It is closed.[end if]",
+        "room_type": "storage",
+        "definite": null,
+        "indefinite": null,
+        "synonyms": null
+      }
+    ],
+    [
+      "c_2",
+      {
+        "id": "c_2",
+        "type": "c",
+        "name": "clothes drier",
+        "noun": "clothes drier",
+        "adj": null,
+        "desc": "The [noun] looks grand. [if open]It is open.[else if locked]It is locked.[otherwise]It is closed.[end if]",
+        "room_type": "storage",
+        "definite": null,
+        "indefinite": null,
+        "synonyms": null
+      }
+    ],
+    [
+      "s_0",
+      {
+        "id": "s_0",
+        "type": "s",
+        "name": "suspended shelf",
+        "noun": "suspended shelf",
+        "adj": null,
+        "desc": "The [noun] is shaky.",
+        "room_type": "storage",
+        "definite": null,
+        "indefinite": null,
+        "synonyms": null
+      }
+    ],
+    [
+      "s_1",
+      {
+        "id": "s_1",
+        "type": "s",
+        "name": "work table",
+        "noun": "work table",
+        "adj": null,
+        "desc": "The [noun] is reliable.",
+        "room_type": "storage",
+        "definite": null,
+        "indefinite": null,
+        "synonyms": null
+      }
+    ],
+    [
+      "s_2",
+      {
+        "id": "s_2",
+        "type": "s",
+        "name": "bench",
+        "noun": "bench",
+        "adj": "w",
+        "desc": "The [noun] is shaky.",
+        "room_type": "storage",
+        "definite": null,
+        "indefinite": null,
+        "synonyms": null
+      }
+    ],
+    [
+      "slot_0",
+      {
+        "id": "slot_0",
+        "type": "slot",
+        "name": "",
+        "noun": null,
+        "adj": null,
+        "desc": "",
+        "room_type": null,
+        "definite": null,
+        "indefinite": null,
+        "synonyms": null
+      }
+    ],
+    [
+      "slot_1",
+      {
+        "id": "slot_1",
+        "type": "slot",
+        "name": "",
+        "noun": null,
+        "adj": null,
+        "desc": "",
+        "room_type": null,
+        "definite": null,
+        "indefinite": null,
+        "synonyms": null
+      }
+    ],
+    [
+      "o_0",
+      {
+        "id": "o_0",
+        "type": "o",
+        "name": "dirty gray underpants",
+        "noun": "dirty gray underpants",
+        "adj": null,
+        "desc": "The [noun] would seem to be to fit in here",
+        "room_type": "storage",
+        "definite": null,
+        "indefinite": "a pair of",
+        "synonyms": null
+      }
+    ]
+  ],
+  "KB": {
+    "logic": "# supporter\ntype s : t {\n    predicates {\n        on(o, s);\n    }\n\n    inform7 {\n        type {\n            kind :: \"supporter\";\n            definition :: \"supporters are fixed in place.\";\n        }\n\n        predicates {\n            on(o, s) :: \"The {o} is on the {s}\";\n        }\n    }\n}\n\n# thing\ntype t {\n    predicates {\n        sharp(t);\n        cuttable(t);\n        cookable(t);\n        drinkable(t);\n    }\n\n    rules {\n        examine/t :: at(P, r) & $at(t, r) -> at(P, r);\n    }\n\n    inform7 {\n        type {\n            kind :: \"thing\";\n            definition :: \"a thing can be drinkable. a thing is usually not drinkable. a thing can be cookable. a thing is usually not cookable. a thing can be damaged. a thing is usually not damaged. a thing can be sharp. a thing is usually not sharp. a thing can be cuttable. a thing is usually not cuttable. a thing can be a source of heat. Type of cooking is a kind of value. The type of cooking are raw, grilled, roasted and fried. a thing can be needs cooking. Type of cutting is a kind of value. The type of cutting are uncut, sliced, diced and chopped.\";\n        }\n\n        predicates {\n            sharp(t) :: \"The {t} is sharp\";\n            cookable(t) :: \"The {t} is cookable\";\n            cuttable(t) :: \"The {t} is cuttable\";\n            drinkable(t) :: \"The {t} is drinkable\";\n        }\n\n        commands {\n            examine/t :: \"examine {t}\" :: \"examining the {t}\";\n        }\n    }\n}\n\ntype object {\n    inform7 {\n        type {\n            kind :: \"object\";\n        }\n    }\n}\n\n# room\ntype r {\n    predicates {\n        at(P, r);\n        at(t, r);\n\n        north_of(r, r);\n        west_of(r, r);\n\n        north_of/d(r, d, r);\n        west_of/d(r, d, r);\n\n        free(r, r);\n\n        #south_of(r, r') = north_of(r', r);\n        #east_of(r, r') = west_of(r', r);\n\n        #south_of/d(r, d, r') = north_of/d(r', d, r);\n        #east_of/d(r, d, r') = west_of/d(r', d, r);\n    }\n\n    rules {\n        go/north :: at(P, r) & $north_of(r', r) & $free(r, r') & $free(r', r) -> at(P, r');\n        go/south :: at(P, r) & $south_of(r', r) & $free(r, r') & $free(r', r) -> at(P, r');\n        go/east  :: at(P, r) & $east_of(r', r) & $free(r, r') & $free(r', r) -> at(P, r');\n        go/west  :: at(P, r) & $west_of(r', r) & $free(r, r') & $free(r', r) -> at(P, r');\n\n        look :: at(P, r) -> at(P, r);\n    }\n\n    reverse_rules {\n        go/north :: go/south;\n        go/west :: go/east;\n    }\n\n    constraints {\n        r1 :: at(P, r) & at(P, r') -> fail();\n        r2 :: at(s, r) & at(s, r') -> fail();\n        r3 :: at(c, r) & at(c, r') -> fail();\n\n        # An exit direction can only lead to one room.\n        nav_rr1 :: north_of(r, r') & north_of(r'', r') -> fail();\n        nav_rr2 :: south_of(r, r') & south_of(r'', r') -> fail();\n        nav_rr3 :: east_of(r, r') & east_of(r'', r') -> fail();\n        nav_rr4 :: west_of(r, r') & west_of(r'', r') -> fail();\n\n        # Two rooms can only be connected once with each other.\n        nav_rrA :: north_of(r, r') & south_of(r, r') -> fail();\n        nav_rrB :: north_of(r, r') & west_of(r, r') -> fail();\n        nav_rrC :: north_of(r, r') & east_of(r, r') -> fail();\n        nav_rrD :: south_of(r, r') & west_of(r, r') -> fail();\n        nav_rrE :: south_of(r, r') & east_of(r, r') -> fail();\n        nav_rrF :: west_of(r, r')  & east_of(r, r') -> fail();\n    }\n\n    inform7 {\n        type {\n            kind :: \"room\";\n        }\n\n        predicates {\n            at(P, r) :: \"The player is in {r}\";\n            at(s, r) :: \"The {s} is in {r}\";\n            at(c, r) :: \"The {c} is in {r}\";\n            at(o, r) :: \"The {o} is in {r}\";\n\n            north_of(r, r') :: \"The {r} is mapped north of {r'}\";\n            south_of(r, r') :: \"The {r} is mapped south of {r'}\";\n            east_of(r, r') :: \"The {r} is mapped east of {r'}\";\n            west_of(r, r') :: \"The {r} is mapped west of {r'}\";\n\n            north_of/d(r, d, r') :: \"South of {r} and north of {r'} is a door called {d}\";\n            south_of/d(r, d, r') :: \"North of {r} and south of {r'} is a door called {d}\";\n            east_of/d(r, d, r') :: \"West of {r} and east of {r'} is a door called {d}\";\n            west_of/d(r, d, r') :: \"East of {r} and west of {r'} is a door called {d}\";\n        }\n\n        commands {\n            go/north :: \"go north\" :: \"going north\";\n            go/south :: \"go south\" :: \"going south\";\n            go/east :: \"go east\" :: \"going east\";\n            go/west :: \"go west\" :: \"going west\";\n\n            look :: \"look\" :: \"looking\";\n        }\n    }\n}\n\n# container\ntype c : t {\n    predicates {\n        open(c);\n        closed(c);\n        locked(c);\n\n        in(o, c);\n    }\n\n    rules {\n        lock/c   :: $at(P, r) & $at(c, r) & $in(k, I) & $match(k, c) & closed(c) -> locked(c);\n        unlock/c :: $at(P, r) & $at(c, r) & $in(k, I) & $match(k, c) & locked(c) -> closed(c);\n\n        open/c  :: $at(P, r) & $at(c, r) & closed(c) -> open(c);\n        close/c :: $at(P, r) & $at(c, r) & open(c) -> closed(c);\n    }\n\n    reverse_rules {\n        lock/c :: unlock/c;\n        open/c :: close/c;\n    }\n\n    constraints {\n        c1 :: open(c)   & closed(c) -> fail();\n        c2 :: open(c)   & locked(c) -> fail();\n        c3 :: closed(c) & locked(c) -> fail();\n    }\n\n    inform7 {\n        type {\n            kind :: \"container\";\n            definition :: \"containers are openable, lockable and fixed in place. containers are usually closed.\";\n        }\n\n        predicates {\n            open(c) :: \"The {c} is open\";\n            closed(c) :: \"The {c} is closed\";\n            locked(c) :: \"The {c} is locked\";\n\n            in(o, c) :: \"The {o} is in the {c}\";\n        }\n\n        commands {\n            open/c :: \"open {c}\" :: \"opening the {c}\";\n            close/c :: \"close {c}\" :: \"closing the {c}\";\n\n            lock/c :: \"lock {c} with {k}\" :: \"locking the {c} with the {k}\";\n            unlock/c :: \"unlock {c} with {k}\" :: \"unlocking the {c} with the {k}\";\n        }\n    }\n}\n\n# key\ntype k : o {\n    predicates {\n        match(k, c);\n        match(k, d);\n    }\n\n    constraints {\n        k1 :: match(k, c) & match(k', c) -> fail();\n        k2 :: match(k, c) & match(k, c') -> fail();\n        k3 :: match(k, d) & match(k', d) -> fail();\n        k4 :: match(k, d) & match(k, d') -> fail();\n    }\n\n    inform7 {\n        type {\n            kind :: \"key\";\n        }\n\n        predicates {\n            match(k, c) :: \"The matching key of the {c} is the {k}\";\n            match(k, d) :: \"The matching key of the {d} is the {k}\";\n        }\n    }\n}\n\n# Inventory\ntype slot {\n    predicates {\n        free(slot);\n        used(slot);\n    }\n    inform7 {\n        type {\n            kind :: \"thing\";\n            definition :: \"\";\n        }\n        predicates {\n            free(slot) :: \"When play begins, increase the carrying capacity of the player by 1.\";\n            used(slot) :: \"When play begins, increase the carrying capacity of the player by 1.\";\n        }\n    }\n}\n\ntype I {\n    predicates {\n        in(o, I);\n    }\n\n    rules {\n        take :: $at(P, r) & at(o, r) & free(slot) -> in(o, I) & used(slot);\n        drop :: $at(P, r) & in(o, I) & used(slot) -> at(o, r) & free(slot);\n\n        take/c :: $at(P, r) & $at(c, r) & $open(c) & in(o, c) & free(slot) -> in(o, I) & used(slot);\n        insert :: $at(P, r) & $at(c, r) & $open(c) & in(o, I) & used(slot) -> in(o, c) & free(slot);\n\n        take/s :: $at(P, r) & $at(s, r) & on(o, s) & free(slot) -> in(o, I) & used(slot);\n        put    :: $at(P, r) & $at(s, r) & in(o, I) & used(slot) -> on(o, s) & free(slot);\n\n        examine/I :: at(o, I) -> at(o, I);\n        examine/s :: at(P, r) & $at(s, r) & $on(o, s) -> at(P, r);\n        examine/c :: at(P, r) & $at(c, r) & $open(c) & $in(o, c) -> at(P, r);\n    }\n\n    reverse_rules {\n        take :: drop;\n        take/c :: insert;\n        take/s :: put;\n    }\n\n    inform7 {\n        predicates {\n            in(o, I) :: \"The player carries the {o}\";\n        }\n\n        commands {\n            take :: \"take {o}\" :: \"taking the {o}\";\n            drop :: \"drop {o}\" :: \"dropping the {o}\";\n\n            take/c :: \"take {o} from {c}\" :: \"removing the {o} from the {c}\";\n            insert :: \"insert {o} into {c}\" :: \"inserting the {o} into the {c}\";\n\n            take/s :: \"take {o} from {s}\" :: \"removing the {o} from the {s}\";\n            put :: \"put {o} on {s}\" :: \"putting the {o} on the {s}\";\n\n            inventory :: \"inventory\" :: \"taking inventory\";\n\n            examine/I :: \"examine {o}\" :: \"examining the {o}\";\n            examine/s :: \"examine {o}\" :: \"examining the {o}\";\n            examine/c :: \"examine {o}\" :: \"examining the {o}\";\n        }\n    }\n}\n\n## box: i.e. portable container\n#type box : c, o {\n#\n#    predicates {\n#\n#        reachable_box_I(P, I, box) = in(box, I);\n#        reachable_box_r(P, r, box) = at(P, r) & at(box, r);\n#        reachable_box_s(P, r, s, box) = at(P, r) & at(s, r) & on(box, s);\n#        reachable_box_c(P, r, c, box) = at(P, r) & at(c, r) & open(c) & in(box, c);\n#    }\n#\n#    rules {\n#        insert/box :: $reachable_box_I(P, I, box) & $open(box) & in(o, I) -> in(o, box);\n#        insert/box/s :: $reachable_box_s(P, r, s, box) & in(o, I) -> in(o, box);\n#        insert/box/c :: $reachable_box_c(P, r, c, box) & in(o, I) -> in(o, box);\n#    }\n#\n#    inform7 {\n#        type {\n#            kind :: \"box-like\";\n#            definition :: \"box-like is a kind of container. box-like is portable.\";\n#        }\n#\n#        commands {\n#            insert/box :: \"insert {o} into {box}\" :: \"inserting the {o} into the {box}\";\n#            insert/box/s :: \"insert {o} into {box}\" :: \"inserting the {o} into the {box}\";\n#            insert/box/c :: \"insert {o} into {box}\" :: \"inserting the {o} into the {box}\";\n#        }\n#    }\n#}\n\n# Player\ntype P {\n    inform7 {\n        code :: \"\"\"\n            The carrying capacity of the player is 0.\n        \"\"\";\n    }\n\n}\n\n# object\ntype o : t {\n    constraints {\n        obj1 :: in(o, I) & in(o, c) -> fail();\n        obj2 :: in(o, I) & on(o, s) -> fail();\n        obj3 :: in(o, I) & at(o, r) -> fail();\n        obj4 :: in(o, c) & on(o, s) -> fail();\n        obj5 :: in(o, c) & at(o, r) -> fail();\n        obj6 :: on(o, s) & at(o, r) -> fail();\n        obj7 :: at(o, r) & at(o, r') -> fail();\n        obj8 :: in(o, c) & in(o, c') -> fail();\n        obj9 :: on(o, s) & on(o, s') -> fail();\n    }\n\n    inform7 {\n        type {\n            kind :: \"object-like\";\n            definition :: \"object-like is portable.\";\n        }\n    }\n}\n\n# food\ntype f : o {\n    predicates {\n\n    }\n\n    rules {\n\n    }\n\n    constraints {\n\n    }\n\n    inform7 {\n        type {\n            kind :: \"food\";\n        }\n\n        predicates {\n\n        }\n\n        commands {\n\n        }\n\n    }\n}\n\n# door\ntype d : t {\n    predicates {\n        open(d);\n        closed(d);\n        locked(d);\n\n        link(r, d, r);\n    }\n\n    rules {\n        lock/d   :: $at(P, r) & $link(r, d, r') & $link(r', d, r) & $in(k, I) & $match(k, d) & closed(d) -> locked(d);\n        unlock/d :: $at(P, r) & $link(r, d, r') & $link(r', d, r) & $in(k, I) & $match(k, d) & locked(d) -> closed(d);\n\n        open/d   :: $at(P, r) & $link(r, d, r') & $link(r', d, r) & closed(d) -> open(d) & free(r, r') & free(r', r);\n        close/d  :: $at(P, r) & $link(r, d, r') & $link(r', d, r) & open(d) & free(r, r') & free(r', r) -> closed(d);\n    }\n\n    reverse_rules {\n        lock/d :: unlock/d;\n        open/d :: close/d;\n    }\n\n    constraints {\n        d1 :: open(d)   & closed(d) -> fail();\n        d2 :: open(d)   & locked(d) -> fail();\n        d3 :: closed(d) & locked(d) -> fail();\n\n        # A door can't be used to link more than two rooms.\n        link1 :: link(r, d, r') & link(r, d, r'') -> fail();\n        link2 :: link(r, d, r') & link(r'', d, r''') -> fail();\n\n        # There's already a door linking two rooms.\n        link3 :: link(r, d, r') & link(r, d', r') -> fail();\n\n        # There cannot be more than four doors in a room.\n        dr2 :: link(r, d1: d, r1: r) & link(r, d2: d, r2: r) & link(r, d3: d, r3: r) & link(r, d4: d, r4: r) & link(r, d5: d, r5: r) -> fail();\n\n        free1 :: link(r, d, r') & free(r, r') & closed(d) -> fail();\n        free2 :: link(r, d, r') & free(r, r') & locked(d) -> fail();\n    }\n\n    inform7 {\n        type {\n            kind :: \"door\";\n            definition :: \"door is openable and lockable.\";\n        }\n\n        predicates {\n            open(d) :: \"The {d} is open\";\n            closed(d) :: \"The {d} is closed\";\n            locked(d) :: \"The {d} is locked\";\n            link(r, d, r') :: \"\";  # No equivalent in Inform7.\n        }\n\n        commands {\n            open/d :: \"open {d}\" :: \"opening {d}\";\n            close/d :: \"close {d}\" :: \"closing {d}\";\n\n            unlock/d :: \"unlock {d} with {k}\" :: \"unlocking {d} with the {k}\";\n            lock/d :: \"lock {d} with {k}\" :: \"locking {d} with the {k}\";\n        }\n    }\n}\n\n",
+    "text_grammars_path": "./textworld_data/text_grammars"
+  },
+  "metadata": {
+    "seeds": {
+      "map": 59757,
+      "objects": 23971,
+      "quest": 6671,
+      "grammar": 53673
+    },
+    "config": {
+      "output_dir": "../../games/cleanup/easy/train",
+      "data_path": "./iqa_dataset",
+      "initial_room": "laundry room",
+      "objects": 1,
+      "rooms": 1,
+      "take": 1,
+      "drop": false,
+      "distractors": false,
+      "isolated_rooms": false,
+      "open": false,
+      "seed": 1240,
+      "seeds": null,
+      "force": false,
+      "play": false,
+      "train": true,
+      "test": false,
+      "silent": false,
+      "verbose": false,
+      "level": 1
+    },
+    "entities": [
+      "laundry room",
+      "washing machine",
+      "suspended shelf",
+      "work table",
+      "bench",
+      "laundry basket",
+      "clothes drier",
+      "dirty gray underpants"
+    ],
+    "max_score": 1,
+    "goal": "Look for anything that is out of place and put it away in its proper location.",
+    "goal_locations": {
+      "dirty gray underpants": [
+        "washing machine",
+        "laundry basket"
+      ]
+    },
+    "uuid": "tw-iqa-cleanup-objects1-take1-rooms1-train-M32pu02bS65MUBxV"
+  },
+  "objective": "Welcome to TextWorld! You find yourself in a messy house. Many things are not in their usual location. Let's clean up this place. After you'll have done, this little house is going to be spick and span! Look for anything that is out of place and put it away in its proper location."
+}

@@ -1,0 +1,12 @@
+whisk	isa	cooking_utensil
+kitchen_utensil	atlocation	dishwasher
+cooking_utensil	isa	kitchen_utensil
+whisk	relatedto	kitchen
+dishwasher	atlocation	kitchen
+wash	antonym	dirty
+wash	distinctfrom	dirty
+wash	relatedto	dirty
+dishwasher	derivedfrom	wash
+dirty	antonym	clean
+dirty	nothasproperty	clean
+clean	relatedto	wash

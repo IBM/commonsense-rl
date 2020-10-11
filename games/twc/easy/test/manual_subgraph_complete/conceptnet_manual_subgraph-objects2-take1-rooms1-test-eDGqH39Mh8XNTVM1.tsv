@@ -1,0 +1,14 @@
+hot_pepper	isa	pepper
+green_pepper	isa	pepper
+eggs	isa	food
+food	atlocation	pantry
+food	atlocation	shelf
+pepper	isa	spice
+pepper	relatedto	spice
+spice	relatedto	food
+pepper	antonym	salt
+pepper	distinctfrom	salt
+pepper	relatedto	salt
+salt	atlocation	shelf
+pepper	isa	fruit
+fruit	atlocation	pantry

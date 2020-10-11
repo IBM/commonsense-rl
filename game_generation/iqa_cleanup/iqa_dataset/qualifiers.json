@@ -1,0 +1,43 @@
+{
+  "colored": {
+    "name prefix": [
+      "white",
+      "yellow",
+      "blue",
+      "red",
+      "green",
+      "black",
+      "brown",
+      "azure",
+      "teal",
+      "purple",
+      "gray",
+      "orange",
+      "maroon",
+      "magenta"
+    ]
+  },
+  "gray scale": {
+    "name prefix": [
+      "white",
+      "black",
+      "gray"
+    ]
+  },
+  "plain color": {
+    "name prefix": [
+      "white",
+      "black",
+      "gray",
+      "blue",
+      "brown"
+    ]
+  },
+  "texture": {
+    "name prefix": [
+      "striped",
+      "plaid",
+      "checkered"
+    ]
+  }
+}

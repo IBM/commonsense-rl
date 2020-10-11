@@ -1,0 +1,29 @@
+# food
+type f : o {
+    predicates {
+
+    }
+
+    rules {
+
+    }
+
+    constraints {
+
+    }
+
+    inform7 {
+        type {
+            kind :: "food";
+        }
+
+        predicates {
+
+        }
+
+        commands {
+
+        }
+
+    }
+}

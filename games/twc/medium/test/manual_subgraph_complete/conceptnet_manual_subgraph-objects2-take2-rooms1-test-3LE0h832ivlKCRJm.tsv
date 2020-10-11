@@ -1,0 +1,10 @@
+moccasins	formof	moccasin
+moccasins	relatedto	moccasin
+moccasin	relatedto	shoe
+shoes	formof	shoe
+shoes	relatedto	shoe
+shoes	atlocation	closet
+closet	relatedto	cabinet
+closet	synonym	cabinet
+shoes	atlocation	box
+cabinet	isa	box

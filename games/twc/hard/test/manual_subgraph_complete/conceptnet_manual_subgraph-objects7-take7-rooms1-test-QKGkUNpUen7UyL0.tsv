@@ -1,0 +1,11 @@
+socks	atlocation	clothes_drier
+pullover	atlocation	laundry_basket
+pullover	atlocation	washing_machine
+shirt	atlocation	laundry_basket
+shirt	atlocation	washing_machine
+polo_shirt	atlocation	laundry_basket
+polo_shirt	atlocation	washing_machine
+panties	atlocation	clothes_drier
+skirt	atlocation	laundry_basket
+skirt	atlocation	washing_machine
+jumper	atlocation	clothes_drier

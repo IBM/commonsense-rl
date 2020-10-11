@@ -1,0 +1,14 @@
+tissue	isa	paper
+tissue	relatedto	paper
+paper	atlocation	trash
+trash	atlocation	bin
+plastic	relatedto	tissue
+plastic	atlocation	trash
+waste	relatedto	paper
+waste	relatedto	bin
+used	formof	use
+used	relatedto	use
+used	derivedfrom	use
+use	synonym	waste
+trash_can	relatedto	waste
+trash	synonym	trash_can

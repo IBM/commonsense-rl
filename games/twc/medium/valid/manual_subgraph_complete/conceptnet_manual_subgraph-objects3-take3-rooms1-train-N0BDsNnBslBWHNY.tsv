@@ -1,0 +1,11 @@
+flour	atlocation	cabinet
+cabinet	relatedto	shelf
+flour	atlocation	pantry
+black_pepper	isa	pepper
+black_pepper	synonym	pepper
+pepper	isa	fruit
+fruit	atlocation	pantry
+potato	isa	food
+food	atlocation	shelf
+potato	atlocation	bag
+bag	atlocation	shelf

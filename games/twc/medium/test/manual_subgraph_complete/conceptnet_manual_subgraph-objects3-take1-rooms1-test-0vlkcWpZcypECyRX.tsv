@@ -1,0 +1,15 @@
+chicken	isa	meat
+chicken	relatedto	meat
+meat	atlocation	fridge
+chicken	isa	food
+chicken	relatedto	food
+food	atlocation	fridge
+chicken	atlocation	freezer
+freezer	relatedto	fridge
+chicken	capableof	food
+oil	relatedto	food
+food	atlocation	cupboard
+oil	atlocation	kitchen
+bell_pepper	isa	pepper
+pepper	isa	fruit
+fruit	atlocation	fridge

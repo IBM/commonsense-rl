@@ -1,0 +1,9 @@
+potato	isa	food
+food	atlocation	shelf
+sugar	atlocation	jar
+jar	atlocation	shelf
+sugar	relatedto	product
+product	atlocation	shelf
+potato	atlocation	bag
+bag	atlocation	shelf
+potato	atlocation	food

@@ -1,0 +1,9 @@
+duvet	atlocation	bedroom
+wardrobe	atlocation	bedroom
+wardrobe	relatedto	bedroom
+wardrobe	synonym	bedroom
+duvet	atlocation	bed
+duvet	relatedto	blanket
+blankets	formof	blanket
+blankets	relatedto	blanket
+blankets	atlocation	drawer

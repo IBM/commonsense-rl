@@ -1,0 +1,41 @@
+{
+  "dirty clothing": {
+    "name prefix": "dirty",
+    "opposite prefix": "clean",
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ]
+  },
+  "wet clothing": {
+    "name prefix": "wet",
+    "opposite prefix": "clean",
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ]
+  },
+  "dirty kitchenware": {
+    "name prefix": "dirty",
+    "opposite prefix": "clean",
+    "locations": [
+      "dishwasher"
+    ]
+  },
+  "used": {
+    "name prefix": "used",
+    "locations": [
+      "trash can",
+      "pedal bin",
+      "wastepaper basket"
+    ]
+  },
+  "rotten": {
+    "name prefix": "rotten",
+    "locations": [
+      "trash can",
+      "pedal bin",
+      "wastepaper basket"
+    ]
+  }
+}

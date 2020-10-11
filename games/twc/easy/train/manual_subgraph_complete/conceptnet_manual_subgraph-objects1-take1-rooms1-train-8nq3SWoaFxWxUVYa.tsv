@@ -1,0 +1,9 @@
+wet	antonym	dry
+wet	distinctfrom	dry
+wet	relatedto	dry
+clotheshorse	relatedto	dry
+clothesline	relatedto	clotheshorse
+hoodie	isa	jacket
+jacket	isa	clothing
+jacket	relatedto	clothing
+clothing	atlocation	clothesline

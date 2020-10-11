@@ -1,0 +1,12 @@
+plate	atlocation	dishwasher
+plate	relatedto	dishwasher
+plate	atlocation	kitchen
+plate	relatedto	kitchen
+dishwasher	atlocation	kitchen
+wash	antonym	dirty
+wash	distinctfrom	dirty
+wash	relatedto	dirty
+dishwasher	derivedfrom	wash
+dirty	antonym	clean
+dirty	nothasproperty	clean
+clean	relatedto	wash

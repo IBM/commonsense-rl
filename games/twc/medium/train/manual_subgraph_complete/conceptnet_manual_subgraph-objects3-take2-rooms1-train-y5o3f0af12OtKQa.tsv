@@ -1,0 +1,11 @@
+handsoap	relatedto	soap
+soap	atlocation	sink
+soap	relatedto	sink
+bathrobe	relatedto	terrycloth
+terrycloth	etymologicallyrelatedto	cloth
+cloth	atlocation	bathroom
+towel	atlocation	closet
+closet	relatedto	bar
+towel_rail	isa	bar
+towel	relatedto	stick
+bar	relatedto	stick

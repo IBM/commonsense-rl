@@ -1,0 +1,298 @@
+{
+  "cushion": {
+    "locations": [
+      "sofa",
+      "armchair"
+    ]
+  },
+  "TV remote control": {
+    "locations": [
+      "TV stand"
+    ]
+  },
+  "magazine": {
+    "locations": [
+      "end table",
+      "side table"
+    ]
+  },
+  "newspaper": {
+    "locations": [
+      "end table",
+      "side table"
+    ]
+  },
+  "picture": {
+    "locations": [
+      "end table",
+      "side table",
+      "desk"
+    ]
+  },
+  "old book": {
+    "locations": [
+      "bookcase"
+    ]
+  },
+  "dictionary": {
+    "locations": [
+      "bookcase"
+    ]
+  },
+  "vase": {
+    "locations": [
+      "side table",
+      "end table"
+    ]
+  },
+  "teapot": {
+    "locations": [
+      "coffee table",
+      "kitchen cupboard"
+    ]
+  },
+  "table lamp": {
+    "locations": [
+      "end table",
+      "side table",
+      "nightstand"
+    ]
+  },
+  "pen": {
+    "locations": [
+      "end table",
+      "side table",
+      "desk"
+    ]
+  },
+  "notebook": {
+    "locations": [
+      "end table",
+      "side table",
+      "desk"
+    ]
+  },
+  "copybook": {
+    "locations": [
+      "end table",
+      "side table",
+      "desk"
+    ]
+  },
+  "wastepaper": {
+    "indefinite": "some",
+    "locations": [
+      "wastepaper basket",
+      "trash can",
+      "pedal bin"
+    ]
+  },
+  "key": {
+    "locations": [
+      "key holder"
+    ]
+  },
+  "umbrella": {
+    "locations": [
+      "umbrella stand"
+    ]
+  },
+  "alarm clock": {
+    "locations": [
+      "nightstand"
+    ]
+  },
+  "lamp": {
+    "locations": [
+      "nightstand"
+    ]
+  },
+  "pillow": {
+    "qualifiers": [
+      "plain color"
+    ],
+    "locations": [
+      "bed"
+    ]
+  },
+  "duvet": {
+    "qualifiers": [
+      "plain color",
+      "texture"
+    ],
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ]
+  },
+  "blanket": {
+    "qualifiers": [
+      "plain color",
+      "texture"
+    ],
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ]
+  },
+  "bed sheet": {
+    "qualifiers": [
+      "plain color",
+      "texture"
+    ],
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ]
+  },
+  "toothpaste": {
+    "indefinite": "some",
+    "locations": [
+      "bathroom cabinet"
+    ]
+  },
+  "toothbrush": {
+    "locations": [
+      "bathroom cabinet"
+    ]
+  },
+  "handsoap": {
+    "indefinite": "some",
+    "locations": [
+      "sink"
+    ]
+  },
+  "hair dryer": {
+    "locations": [
+      "bathroom cabinet"
+    ]
+  },
+  "shampoo": {
+    "indefinite": "some",
+    "locations": [
+      "bathroom cabinet",
+      "shower",
+      "bathtub"
+    ]
+  },
+  "brush": {
+    "locations": [
+      "bathroom cabinet"
+    ]
+  },
+  "toilet paper": {
+    "indefinite": "some",
+    "locations": [
+      "toilet roll holder"
+    ]
+  },
+  "towel": {
+    "locations": [
+      "towel rail"
+    ]
+  },
+  "razor": {
+    "locations": [
+      "bathroom cabinet"
+    ]
+  },
+  "electric razor": {
+    "locations": [
+      "bathroom cabinet"
+    ]
+  },
+  "shaving cream": {
+    "locations": [
+      "bathroom cabinet"
+    ]
+  },
+  "mouthwash": {
+    "locations": [
+      "bathroom cabinet"
+    ]
+  },
+  "box of Q-tips": {
+    "locations": [
+      "bathroom cabinet"
+    ]
+  },
+  "hair brush": {
+    "locations": [
+      "bathroom cabinet"
+    ]
+  },
+  "comb": {
+    "locations": [
+      "bathroom cabinet"
+    ]
+  },
+  "cleanser": {
+    "locations": [
+      "bathroom cabinet"
+    ]
+  },
+  "used Q-tip": {
+    "locations": [
+      "pedal bin",
+      "trash can",
+      "wastepaper basket"
+    ]
+  },
+  "used tissue": {
+    "locations": [
+      "pedal bin",
+      "trash can",
+      "wastepaper basket"
+    ]
+  },
+  "makeup kit": {
+    "locations": [
+      "dressing table"
+    ]
+  },
+  "nail polish": {
+    "locations": [
+      "dressing table",
+      "bathroom cabinet"
+    ]
+  },
+  "lip gloss": {
+    "locations": [
+      "dressing table"
+    ]
+  },
+  "lip liner": {
+    "locations": [
+      "dressing table"
+    ]
+  },
+  "eyeliner": {
+    "locations": [
+      "dressing table"
+    ]
+  },
+  "lipstick": {
+    "locations": [
+      "dressing table"
+    ]
+  },
+  "face cream": {
+    "locations": [
+      "dressing table",
+      "bathroom cabinet"
+    ]
+  },
+  "washing powder": {
+    "locations": [
+      "suspended shelf"
+    ]
+  },
+  "laundry detergent": {
+    "locations": [
+      "suspended shelf"
+    ]
+  }
+}

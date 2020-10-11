@@ -1,0 +1,10 @@
+cheese	atlocation	fridge
+sugar	atlocation	jar
+jar	atlocation	kitchen_cupboard
+used	formof	use
+used	relatedto	use
+used	derivedfrom	use
+use	synonym	waste
+trash_can	relatedto	waste
+plastic	atlocation	trash
+trash	synonym	trash_can

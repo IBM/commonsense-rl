@@ -1,0 +1,12 @@
+t_shirt	atlocation	washing_machine
+t_shirt	atlocation	laundry_basket
+dress	atlocation	laundry_basket
+dress	atlocation	washing_machine
+dress	atlocation	clothes_drier
+bra	atlocation	laundry_basket
+bra	atlocation	washing_machine
+cardigan	atlocation	clothes_drier
+blazer	atlocation	washing_machine
+blazer	atlocation	laundry_basket
+apple	atlocation	bin
+rotten_apple	atlocation	bin

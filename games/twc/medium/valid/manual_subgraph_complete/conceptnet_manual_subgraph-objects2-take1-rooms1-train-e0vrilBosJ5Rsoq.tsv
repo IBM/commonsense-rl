@@ -1,0 +1,9 @@
+shirt	relatedto	clothing
+clothing	atlocation	clothesline
+t_shirt	isa	clothes
+clothesline	derivedfrom	clothes
+wet	antonym	dry
+wet	distinctfrom	dry
+wet	relatedto	dry
+clotheshorse	relatedto	dry
+clothesline	relatedto	clotheshorse
