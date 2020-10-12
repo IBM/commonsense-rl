@@ -1,4 +1,8 @@
-# Text-based Reinforcement Learning Agents with Commonsense Knowledge: New Challenges, Environments and Baselines
+# TextWorld Commonsense (TWC)
+
+TextWorld Commonsense (TWC) is a new text-based environment for RL agents that requires the use of commonsense knowledge from external knowledge sources to solve challenging problems. This repository provides the code for the work described below.
+
+## Text-based Reinforcement Learning Agents with Commonsense Knowledge: New Challenges, Environments and Baselines
 ---------------------------------------------------------------------------
 TextWorld Commonsense (TWC) dataset/environment and code for the sample RL agents reported in the paper 
 [Text-based RL Agents with Commonsense Knowledge: New Challenges, Environments and Baselines](https://arxiv.org/abs/2010.03790).
