@@ -3,6 +3,9 @@
 TextWorld Commonsense (TWC) dataset/environment and code for the sample RL agents reported in the paper 
 [Text-based RL Agents with Commonsense Knowledge: New Challenges, Environments and Baselines](https://arxiv.org/abs/2010.03790).
 
+![TWC](./games/twc/twc_cleanup.png?raw=true "TextWorld Commonsense")
+
+
 ## Prepare TWC Environment
 
 Install the following requirements:
@@ -84,7 +87,7 @@ action, where as, `Text + Commonsense`-based RL agent uses both the state descri
 to select next action (See our paper for more details).
 
 
-#### Diffulty level: Easy
+#### Difficulty level: Easy
 | Agents  | #Steps | Normalized Score |
 | ------------- | ------------- | ------------- |
 | `Text`  | 17.59 ± 3.11  | 0.86 ± 0.04  |
@@ -92,7 +95,7 @@ to select next action (See our paper for more details).
 | `Human`  | 2.12 ± 0.49  | 1.0 ± 0.00  |
 | `Optimal`  | 2.0 ± 0.00  | 1.0 ± 0.00  |
 
-#### Diffulty level: Medium
+#### Difficulty level: Medium
 | Agents  | #Steps | Normalized Score |
 | ------------- | ------------- | ------------- |
 | `Text`  | 37.99 ± 6.03  | 0.74 ± 0.11  |
@@ -100,7 +103,7 @@ to select next action (See our paper for more details).
 | `Human`  | 5.33 ± 2.06  | 1.0 ± 0.00  |
 | `Optimal`  | 3.60 ± 0.55  | 1.0 ± 0.00  |
 
-#### Diffulty level: Hard
+#### Difficulty level: Hard
 | Agents  | #Steps | Normalized Score |
 | ------------- | ------------- | ------------- |
 | `Text`  | 49.21 ± 0.58  | 0.54 ± 0.04  |
@@ -125,12 +128,11 @@ If you use our TWC environment and/or the code, please cite us:
       volume={abs/2010.03790}
 }
 ```
-
+Please share _commonsense-rl_ using http://ibm.biz/commonsense-rl
 #### Feedback
 
 * [File an issue](https://github.com/IBM/commonsense-rl/issues/new) on GitHub.
 * Ask a question on [Stack Overflow](https://stackoverflow.com/questions/tagged/commonsense-rl%20twc?sort=Newest&edited=true).
-
 
 #### Relevant Resources 
 
