@@ -9,7 +9,9 @@
     ],
     "properties": [
       "closed"
-    ]
+    ],
+    "category": "furniture",
+    "name": "fridge"
   },
   "counter": {
     "type": "s",
@@ -18,7 +20,9 @@
     ],
     "locations": [
       "kitchen"
-    ]
+    ],
+    "category": "furniture",
+    "name": "counter"
   },
   "dining table": {
     "type": "s",
@@ -27,7 +31,9 @@
     ],
     "locations": [
       "kitchen"
-    ]
+    ],
+    "category": "furniture",
+    "name": "dining table"
   },
   "ladderback chair": {
     "type": "s",
@@ -36,7 +42,9 @@
     ],
     "locations": [
       "kitchen"
-    ]
+    ],
+    "category": "furniture",
+    "name": "ladderback chair"
   },
   "dining chair": {
     "type": "s",
@@ -45,7 +53,9 @@
     ],
     "locations": [
       "kitchen"
-    ]
+    ],
+    "category": "furniture",
+    "name": "dining chair"
   },
   "stove": {
     "type": "s",
@@ -54,7 +64,9 @@
     ],
     "locations": [
       "kitchen"
-    ]
+    ],
+    "category": "furniture",
+    "name": "stove"
   },
   "oven": {
     "type": "c",
@@ -63,7 +75,9 @@
     ],
     "properties": [
       "closed"
-    ]
+    ],
+    "category": "furniture",
+    "name": "oven"
   },
   "kitchen cupboard": {
     "type": "c",
@@ -72,25 +86,33 @@
     ],
     "locations": [
       "kitchen"
-    ]
+    ],
+    "category": "furniture",
+    "name": "kitchen cupboard"
   },
   "dishwasher": {
     "type": "c",
     "locations": [
       "kitchen"
-    ]
+    ],
+    "category": "furniture",
+    "name": "dishwasher"
   },
   "cutlery drawer": {
     "type": "c",
     "locations": [
       "kitchen"
-    ]
+    ],
+    "category": "furniture",
+    "name": "cutlery drawer"
   },
   "trash can": {
     "type": "c",
     "locations": [
       "kitchen"
-    ]
+    ],
+    "category": "furniture",
+    "name": "trash can"
   },
   "sofa": {
     "type": "s",
@@ -99,7 +121,9 @@
     ],
     "locations": [
       "livingroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "sofa"
   },
   "end table": {
     "type": "s",
@@ -110,7 +134,9 @@
     "locations": [
       "livingroom"
     ],
-    "properties": []
+    "properties": [],
+    "category": "furniture",
+    "name": "end table"
   },
   "coffee table": {
     "type": "s",
@@ -120,7 +146,9 @@
     "locations": [
       "livingroom"
     ],
-    "properties": []
+    "properties": [],
+    "category": "furniture",
+    "name": "coffee table"
   },
   "side table": {
     "type": "s",
@@ -130,14 +158,18 @@
     "locations": [
       "livingroom"
     ],
-    "properties": []
+    "properties": [],
+    "category": "furniture",
+    "name": "side table"
   },
   "grey carpet": {
     "type": "s",
     "locations": [
       "livingroom"
     ],
-    "properties": []
+    "properties": [],
+    "category": "furniture",
+    "name": "grey carpet"
   },
   "armchair": {
     "type": "s",
@@ -146,55 +178,73 @@
     ],
     "locations": [
       "livingroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "armchair"
   },
   "TV stand": {
     "type": "s",
     "locations": [
       "livingroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "TV stand"
   },
   "bookcase": {
     "type": "c",
     "locations": [
       "livingroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "bookcase"
   },
   "wastepaper basket": {
     "type": "c",
     "locations": [
       "livingroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "wastepaper basket"
   },
   "coat hanger": {
     "type": "s",
     "locations": [
       "corridor"
-    ]
+    ],
+    "category": "furniture",
+    "name": "coat hanger"
   },
   "hat rack": {
     "type": "s",
     "locations": [
       "corridor"
-    ]
+    ],
+    "category": "furniture",
+    "name": "hat rack"
   },
   "umbrella stand": {
     "type": "s",
     "locations": [
       "corridor"
-    ]
+    ],
+    "category": "furniture",
+    "name": "umbrella stand"
   },
   "shoe cabinet": {
     "type": "c",
     "locations": [
       "corridor"
-    ]
+    ],
+    "category": "furniture",
+    "name": "shoe cabinet"
   },
   "key holder": {
     "type": "s",
     "locations": [
       "corridor"
-    ]
+    ],
+    "category": "furniture",
+    "name": "key holder"
   },
   "bed": {
     "type": "s",
@@ -203,13 +253,17 @@
     ],
     "locations": [
       "bedroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "bed"
   },
   "nightstand": {
     "type": "s",
     "locations": [
       "bedroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "nightstand"
   },
   "wardrobe": {
     "type": "c",
@@ -218,31 +272,41 @@
     ],
     "locations": [
       "bedroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "wardrobe"
   },
   "chest of drawers": {
     "type": "c",
     "locations": [
       "bedroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "chest of drawers"
   },
   "desk": {
     "type": "s",
     "locations": [
       "bedroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "desk"
   },
   "desk chair": {
     "type": "s",
     "locations": [
       "bedroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "desk chair"
   },
   "dark carpet": {
     "type": "s",
     "locations": [
       "bedroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "dark carpet"
   },
   "toilet": {
     "type": "s",
@@ -251,111 +315,147 @@
     ],
     "locations": [
       "bathroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "toilet"
   },
   "bathroom cabinet": {
     "type": "c",
     "locations": [
       "bathroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "bathroom cabinet"
   },
   "pedal bin": {
     "type": "c",
     "locations": [
       "bathroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "pedal bin"
   },
   "shower": {
     "type": "c",
     "locations": [
       "bathroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "shower"
   },
   "bathtub": {
     "type": "s",
     "locations": [
       "bathroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "bathtub"
   },
   "towel rail": {
     "type": "s",
     "locations": [
       "bathroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "towel rail"
   },
   "toilet roll holder": {
     "type": "s",
     "locations": [
       "bathroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "toilet roll holder"
   },
   "bath mat": {
     "type": "s",
     "locations": [
       "bathroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "bath mat"
   },
   "wall hook": {
     "type": "s",
     "locations": [
       "bathroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "wall hook"
   },
   "sink": {
     "type": "s",
     "locations": [
       "bathroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "sink"
   },
   "dressing table": {
     "type": "s",
     "locations": [
       "bathroom",
       "bedroom"
-    ]
+    ],
+    "category": "furniture",
+    "name": "dressing table"
   },
   "washing machine": {
     "type": "c",
     "locations": [
       "laundry room"
-    ]
+    ],
+    "category": "furniture",
+    "name": "washing machine"
   },
   "laundry basket": {
     "type": "c",
     "locations": [
       "laundry room"
-    ]
+    ],
+    "category": "furniture",
+    "name": "laundry basket"
   },
   "clothesline": {
     "type": "s",
     "locations": [
       "backyard"
-    ]
+    ],
+    "category": "furniture",
+    "name": "clothesline"
   },
   "clothes drier": {
     "type": "c",
     "locations": [
       "laundry room"
-    ]
+    ],
+    "category": "furniture",
+    "name": "clothes drier"
   },
   "work table": {
     "type": "s",
     "locations": [
       "laundry room"
-    ]
+    ],
+    "category": "furniture",
+    "name": "work table"
   },
   "bench": {
     "type": "s",
     "adjs": "wooden",
     "locations": [
       "laundry room"
-    ]
+    ],
+    "category": "furniture",
+    "name": "bench"
   },
   "suspended shelf": {
     "type": "s",
     "locations": [
       "laundry room"
-    ]
+    ],
+    "category": "furniture",
+    "name": "suspended shelf"
   },
   "shelf": {
     "type": "s",
@@ -365,7 +465,9 @@
     "locations": [
       "pantry"
     ],
-    "properties": []
+    "properties": [],
+    "category": "furniture",
+    "name": "shelf"
   },
   "folding chair": {
     "type": "s",
@@ -375,7 +477,9 @@
     "locations": [
       "pantry"
     ],
-    "properties": []
+    "properties": [],
+    "category": "furniture",
+    "name": "folding chair"
   },
   "patio table": {
     "type": "s",
@@ -384,7 +488,9 @@
     ],
     "locations": [
       "backyard"
-    ]
+    ],
+    "category": "furniture",
+    "name": "patio table"
   },
   "patio chair": {
     "type": "s",
@@ -393,7 +499,9 @@
     ],
     "locations": [
       "backyard"
-    ]
+    ],
+    "category": "furniture",
+    "name": "patio chair"
   },
   "BBQ": {
     "type": "s",
@@ -402,7 +510,9 @@
     ],
     "locations": [
       "backyard"
-    ]
+    ],
+    "category": "furniture",
+    "name": "BBQ"
   },
   "workbench": {
     "type": "s",
@@ -412,6 +522,8 @@
     "locations": [
       "backyard"
     ],
-    "properties": []
+    "properties": [],
+    "category": "furniture",
+    "name": "workbench"
   }
 }

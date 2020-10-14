@@ -1,0 +1,4866 @@
+{
+  "cushion": {
+    "locations": [
+      "sofa",
+      "armchair"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "cushion",
+    "entity": "cushion"
+  },
+  "TV remote control": {
+    "locations": [
+      "TV stand"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "TV remote control",
+    "entity": "TV remote control"
+  },
+  "magazine": {
+    "locations": [
+      "end table",
+      "side table"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "magazine",
+    "entity": "magazine"
+  },
+  "newspaper": {
+    "locations": [
+      "end table",
+      "side table"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "newspaper",
+    "entity": "newspaper"
+  },
+  "picture": {
+    "locations": [
+      "end table",
+      "side table",
+      "desk"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "picture",
+    "entity": "picture"
+  },
+  "old book": {
+    "locations": [
+      "bookcase"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "old book",
+    "entity": "old book"
+  },
+  "dictionary": {
+    "locations": [
+      "bookcase"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "dictionary",
+    "entity": "dictionary"
+  },
+  "vase": {
+    "locations": [
+      "side table",
+      "end table"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "vase",
+    "entity": "vase"
+  },
+  "teapot": {
+    "locations": [
+      "coffee table",
+      "kitchen cupboard"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "teapot",
+    "entity": "teapot"
+  },
+  "table lamp": {
+    "locations": [
+      "end table",
+      "side table",
+      "nightstand"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "table lamp",
+    "entity": "table lamp"
+  },
+  "pen": {
+    "locations": [
+      "end table",
+      "side table",
+      "desk"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "pen",
+    "entity": "pen"
+  },
+  "notebook": {
+    "locations": [
+      "end table",
+      "side table",
+      "desk"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "notebook",
+    "entity": "notebook"
+  },
+  "copybook": {
+    "locations": [
+      "end table",
+      "side table",
+      "desk"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "copybook",
+    "entity": "copybook"
+  },
+  "wastepaper": {
+    "indefinite": "some",
+    "locations": [
+      "wastepaper basket",
+      "trash can",
+      "pedal bin"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "wastepaper",
+    "entity": "wastepaper"
+  },
+  "key": {
+    "locations": [
+      "key holder"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "key",
+    "entity": "key"
+  },
+  "umbrella": {
+    "locations": [
+      "umbrella stand"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "umbrella",
+    "entity": "umbrella"
+  },
+  "alarm clock": {
+    "locations": [
+      "nightstand"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "alarm clock",
+    "entity": "alarm clock"
+  },
+  "lamp": {
+    "locations": [
+      "nightstand"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "lamp",
+    "entity": "lamp"
+  },
+  "white pillow": {
+    "locations": [
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "white pillow",
+    "entity": "pillow"
+  },
+  "black pillow": {
+    "locations": [
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "black pillow",
+    "entity": "pillow"
+  },
+  "gray pillow": {
+    "locations": [
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "gray pillow",
+    "entity": "pillow"
+  },
+  "blue pillow": {
+    "locations": [
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "blue pillow",
+    "entity": "pillow"
+  },
+  "brown pillow": {
+    "locations": [
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "brown pillow",
+    "entity": "pillow"
+  },
+  "white duvet": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "white duvet",
+    "entity": "duvet"
+  },
+  "black duvet": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "black duvet",
+    "entity": "duvet"
+  },
+  "gray duvet": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "gray duvet",
+    "entity": "duvet"
+  },
+  "blue duvet": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "blue duvet",
+    "entity": "duvet"
+  },
+  "brown duvet": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "brown duvet",
+    "entity": "duvet"
+  },
+  "striped duvet": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "striped duvet",
+    "entity": "duvet"
+  },
+  "plaid duvet": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "plaid duvet",
+    "entity": "duvet"
+  },
+  "checkered duvet": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "checkered duvet",
+    "entity": "duvet"
+  },
+  "white blanket": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "white blanket",
+    "entity": "blanket"
+  },
+  "black blanket": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "black blanket",
+    "entity": "blanket"
+  },
+  "gray blanket": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "gray blanket",
+    "entity": "blanket"
+  },
+  "blue blanket": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "blue blanket",
+    "entity": "blanket"
+  },
+  "brown blanket": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "brown blanket",
+    "entity": "blanket"
+  },
+  "striped blanket": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "striped blanket",
+    "entity": "blanket"
+  },
+  "plaid blanket": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "plaid blanket",
+    "entity": "blanket"
+  },
+  "checkered blanket": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "checkered blanket",
+    "entity": "blanket"
+  },
+  "white bed sheet": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "white bed sheet",
+    "entity": "bed sheet"
+  },
+  "black bed sheet": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "black bed sheet",
+    "entity": "bed sheet"
+  },
+  "gray bed sheet": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "gray bed sheet",
+    "entity": "bed sheet"
+  },
+  "blue bed sheet": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "blue bed sheet",
+    "entity": "bed sheet"
+  },
+  "brown bed sheet": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "brown bed sheet",
+    "entity": "bed sheet"
+  },
+  "striped bed sheet": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "striped bed sheet",
+    "entity": "bed sheet"
+  },
+  "plaid bed sheet": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "plaid bed sheet",
+    "entity": "bed sheet"
+  },
+  "checkered bed sheet": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe",
+      "bed"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "checkered bed sheet",
+    "entity": "bed sheet"
+  },
+  "toothpaste": {
+    "indefinite": "some",
+    "locations": [
+      "bathroom cabinet"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "toothpaste",
+    "entity": "toothpaste"
+  },
+  "toothbrush": {
+    "locations": [
+      "bathroom cabinet"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "toothbrush",
+    "entity": "toothbrush"
+  },
+  "handsoap": {
+    "indefinite": "some",
+    "locations": [
+      "sink"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "handsoap",
+    "entity": "handsoap"
+  },
+  "hair dryer": {
+    "locations": [
+      "bathroom cabinet"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "hair dryer",
+    "entity": "hair dryer"
+  },
+  "shampoo": {
+    "indefinite": "some",
+    "locations": [
+      "bathroom cabinet",
+      "shower",
+      "bathtub"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "shampoo",
+    "entity": "shampoo"
+  },
+  "brush": {
+    "locations": [
+      "bathroom cabinet"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "brush",
+    "entity": "brush"
+  },
+  "toilet paper": {
+    "indefinite": "some",
+    "locations": [
+      "toilet roll holder"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "toilet paper",
+    "entity": "toilet paper"
+  },
+  "towel": {
+    "locations": [
+      "towel rail"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "towel",
+    "entity": "towel"
+  },
+  "razor": {
+    "locations": [
+      "bathroom cabinet"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "razor",
+    "entity": "razor"
+  },
+  "electric razor": {
+    "locations": [
+      "bathroom cabinet"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "electric razor",
+    "entity": "electric razor"
+  },
+  "shaving cream": {
+    "locations": [
+      "bathroom cabinet"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "shaving cream",
+    "entity": "shaving cream"
+  },
+  "mouthwash": {
+    "locations": [
+      "bathroom cabinet"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "mouthwash",
+    "entity": "mouthwash"
+  },
+  "box of Q-tips": {
+    "locations": [
+      "bathroom cabinet"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "box of Q-tips",
+    "entity": "box of Q-tips"
+  },
+  "hair brush": {
+    "locations": [
+      "bathroom cabinet"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "hair brush",
+    "entity": "hair brush"
+  },
+  "comb": {
+    "locations": [
+      "bathroom cabinet"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "comb",
+    "entity": "comb"
+  },
+  "cleanser": {
+    "locations": [
+      "bathroom cabinet"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "cleanser",
+    "entity": "cleanser"
+  },
+  "used Q-tip": {
+    "locations": [
+      "pedal bin",
+      "trash can",
+      "wastepaper basket"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "used Q-tip",
+    "entity": "used Q-tip"
+  },
+  "used tissue": {
+    "locations": [
+      "pedal bin",
+      "trash can",
+      "wastepaper basket"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "used tissue",
+    "entity": "used tissue"
+  },
+  "makeup kit": {
+    "locations": [
+      "dressing table"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "makeup kit",
+    "entity": "makeup kit"
+  },
+  "nail polish": {
+    "locations": [
+      "dressing table",
+      "bathroom cabinet"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "nail polish",
+    "entity": "nail polish"
+  },
+  "lip gloss": {
+    "locations": [
+      "dressing table"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "lip gloss",
+    "entity": "lip gloss"
+  },
+  "lip liner": {
+    "locations": [
+      "dressing table"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "lip liner",
+    "entity": "lip liner"
+  },
+  "eyeliner": {
+    "locations": [
+      "dressing table"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "eyeliner",
+    "entity": "eyeliner"
+  },
+  "lipstick": {
+    "locations": [
+      "dressing table"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "lipstick",
+    "entity": "lipstick"
+  },
+  "face cream": {
+    "locations": [
+      "dressing table",
+      "bathroom cabinet"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "face cream",
+    "entity": "face cream"
+  },
+  "washing powder": {
+    "locations": [
+      "suspended shelf"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "washing powder",
+    "entity": "washing powder"
+  },
+  "laundry detergent": {
+    "locations": [
+      "suspended shelf"
+    ],
+    "type": "o",
+    "category": "object",
+    "name": "laundry detergent",
+    "entity": "laundry detergent"
+  },
+  "eggs": {
+    "indefinite": "some",
+    "locations": [
+      "fridge",
+      "shelf"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "eggs",
+    "entity": "eggs"
+  },
+  "milk": {
+    "indefinite": "some",
+    "locations": [
+      "fridge"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "milk",
+    "entity": "milk"
+  },
+  "bottle of cold water": {
+    "locations": [
+      "fridge"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "bottle of cold water",
+    "entity": "bottle of cold water"
+  },
+  "vegetable oil": {
+    "indefinite": "some",
+    "locations": [
+      "shelf",
+      "kitchen cupboard"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "vegetable oil",
+    "entity": "cooking oil"
+  },
+  "peanut oil": {
+    "indefinite": "some",
+    "locations": [
+      "shelf",
+      "kitchen cupboard"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "peanut oil",
+    "entity": "cooking oil"
+  },
+  "olive oil": {
+    "indefinite": "some",
+    "locations": [
+      "shelf",
+      "kitchen cupboard"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "olive oil",
+    "entity": "cooking oil"
+  },
+  "chicken wing": {
+    "locations": [
+      "fridge"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "chicken wing",
+    "entity": "chicken wing"
+  },
+  "chicken leg": {
+    "locations": [
+      "fridge"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "chicken leg",
+    "entity": "chicken leg"
+  },
+  "chicken breast": {
+    "locations": [
+      "fridge"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "chicken breast",
+    "entity": "chicken breast"
+  },
+  "pork chop": {
+    "locations": [
+      "fridge"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "pork chop",
+    "entity": "pork chop"
+  },
+  "rotten red tuna": {
+    "locations": [
+      "trash can",
+      "pedal bin"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "rotten red tuna",
+    "entity": "tuna"
+  },
+  "white tuna": {
+    "locations": [
+      "fridge"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "white tuna",
+    "entity": "tuna"
+  },
+  "carrot": {
+    "locations": [
+      "fridge"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "carrot",
+    "entity": "carrot"
+  },
+  "red onion": {
+    "locations": [
+      "fridge",
+      "shelf"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "red onion",
+    "entity": "onion"
+  },
+  "white onion": {
+    "locations": [
+      "fridge",
+      "shelf"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "white onion",
+    "entity": "onion"
+  },
+  "yellow onion": {
+    "locations": [
+      "fridge",
+      "shelf"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "yellow onion",
+    "entity": "onion"
+  },
+  "lettuce": {
+    "locations": [
+      "fridge"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "lettuce",
+    "entity": "lettuce"
+  },
+  "rotten red potato": {
+    "locations": [
+      "trash can",
+      "pedal bin"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "rotten red potato",
+    "entity": "potato"
+  },
+  "rotten yellow potato": {
+    "locations": [
+      "trash can",
+      "pedal bin"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "rotten yellow potato",
+    "entity": "potato"
+  },
+  "red apple": {
+    "locations": [
+      "fridge"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "red apple",
+    "entity": "apple"
+  },
+  "rotten yellow apple": {
+    "locations": [
+      "trash can",
+      "pedal bin"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "rotten yellow apple",
+    "entity": "apple"
+  },
+  "rotten green apple": {
+    "locations": [
+      "trash can",
+      "pedal bin"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "rotten green apple",
+    "entity": "apple"
+  },
+  "rotten banana": {
+    "locations": [
+      "trash can",
+      "pedal bin"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "rotten banana",
+    "entity": "banana"
+  },
+  "tomato": {
+    "locations": [
+      "fridge"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "tomato",
+    "entity": "tomato"
+  },
+  "red hot pepper": {
+    "locations": [
+      "shelf"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "red hot pepper",
+    "entity": "hot pepper"
+  },
+  "green hot pepper": {
+    "locations": [
+      "shelf"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "green hot pepper",
+    "entity": "hot pepper"
+  },
+  "red bell pepper": {
+    "locations": [
+      "fridge"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "red bell pepper",
+    "entity": "bell pepper"
+  },
+  "yellow bell pepper": {
+    "locations": [
+      "fridge"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "yellow bell pepper",
+    "entity": "bell pepper"
+  },
+  "green bell pepper": {
+    "locations": [
+      "fridge"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "green bell pepper",
+    "entity": "bell pepper"
+  },
+  "orange bell pepper": {
+    "locations": [
+      "fridge"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "orange bell pepper",
+    "entity": "bell pepper"
+  },
+  "black pepper": {
+    "indefinite": "some",
+    "locations": [
+      "shelf",
+      "kitchen cupboard"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "black pepper",
+    "entity": "black pepper"
+  },
+  "flour": {
+    "indefinite": "some",
+    "locations": [
+      "shelf",
+      "kitchen cupboard"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "flour",
+    "entity": "flour"
+  },
+  "salt": {
+    "indefinite": "some",
+    "locations": [
+      "shelf",
+      "kitchen cupboard"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "salt",
+    "entity": "salt"
+  },
+  "sugar": {
+    "indefinite": "some",
+    "locations": [
+      "shelf",
+      "kitchen cupboard"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "sugar",
+    "entity": "sugar"
+  },
+  "block of cheese": {
+    "locations": [
+      "fridge"
+    ],
+    "type": "f",
+    "category": "food",
+    "name": "block of cheese",
+    "entity": "block of cheese"
+  },
+  "white coat": {
+    "locations": [
+      "coat hanger",
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "white coat",
+    "entity": "coat"
+  },
+  "black coat": {
+    "locations": [
+      "coat hanger",
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "black coat",
+    "entity": "coat"
+  },
+  "gray coat": {
+    "locations": [
+      "coat hanger",
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "gray coat",
+    "entity": "coat"
+  },
+  "blue coat": {
+    "locations": [
+      "coat hanger",
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "blue coat",
+    "entity": "coat"
+  },
+  "brown coat": {
+    "locations": [
+      "coat hanger",
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "brown coat",
+    "entity": "coat"
+  },
+  "white golf shoes": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "white golf shoes",
+    "entity": "golf shoes"
+  },
+  "black golf shoes": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "black golf shoes",
+    "entity": "golf shoes"
+  },
+  "gray golf shoes": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "gray golf shoes",
+    "entity": "golf shoes"
+  },
+  "blue golf shoes": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "blue golf shoes",
+    "entity": "golf shoes"
+  },
+  "brown golf shoes": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "brown golf shoes",
+    "entity": "golf shoes"
+  },
+  "hiking boots": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "hiking boots",
+    "entity": "hiking boots"
+  },
+  "running shoes": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "running shoes",
+    "entity": "running shoes"
+  },
+  "climbing shoes": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "climbing shoes",
+    "entity": "climbing shoes"
+  },
+  "soccer shoes": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "soccer shoes",
+    "entity": "soccer shoes"
+  },
+  "white sneakers": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "white sneakers",
+    "entity": "sneakers"
+  },
+  "black sneakers": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "black sneakers",
+    "entity": "sneakers"
+  },
+  "gray sneakers": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "gray sneakers",
+    "entity": "sneakers"
+  },
+  "blue sneakers": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "blue sneakers",
+    "entity": "sneakers"
+  },
+  "brown sneakers": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "brown sneakers",
+    "entity": "sneakers"
+  },
+  "knee high boots": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "knee high boots",
+    "entity": "knee high boots"
+  },
+  "work boots": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "work boots",
+    "entity": "work boots"
+  },
+  "flip flops": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "flip flops",
+    "entity": "flip flops"
+  },
+  "court shoes": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "court shoes",
+    "entity": "court shoes"
+  },
+  "platform heels": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "platform heels",
+    "entity": "platform heels"
+  },
+  "high-heeled shoes": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "high-heeled shoes",
+    "entity": "high-heeled shoes"
+  },
+  "roller skates": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "roller skates",
+    "entity": "roller skates"
+  },
+  "white business shoes": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "white business shoes",
+    "entity": "business shoes"
+  },
+  "black business shoes": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "black business shoes",
+    "entity": "business shoes"
+  },
+  "gray business shoes": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "gray business shoes",
+    "entity": "business shoes"
+  },
+  "blue business shoes": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "blue business shoes",
+    "entity": "business shoes"
+  },
+  "brown business shoes": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "brown business shoes",
+    "entity": "business shoes"
+  },
+  "white moccasins": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "white moccasins",
+    "entity": "moccasins"
+  },
+  "black moccasins": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "black moccasins",
+    "entity": "moccasins"
+  },
+  "gray moccasins": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "gray moccasins",
+    "entity": "moccasins"
+  },
+  "blue moccasins": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "blue moccasins",
+    "entity": "moccasins"
+  },
+  "brown moccasins": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "brown moccasins",
+    "entity": "moccasins"
+  },
+  "slippers": {
+    "indefinite": "a pair of",
+    "locations": [
+      "shoe cabinet"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "slippers",
+    "entity": "slippers"
+  },
+  "beanie": {
+    "locations": [
+      "hat rack",
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "beanie",
+    "entity": "beanie"
+  },
+  "white cap": {
+    "locations": [
+      "hat rack"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "white cap",
+    "entity": "cap"
+  },
+  "black cap": {
+    "locations": [
+      "hat rack"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "black cap",
+    "entity": "cap"
+  },
+  "gray cap": {
+    "locations": [
+      "hat rack"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "gray cap",
+    "entity": "cap"
+  },
+  "blue cap": {
+    "locations": [
+      "hat rack"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "blue cap",
+    "entity": "cap"
+  },
+  "brown cap": {
+    "locations": [
+      "hat rack"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "brown cap",
+    "entity": "cap"
+  },
+  "beret": {
+    "locations": [
+      "hat rack"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "beret",
+    "entity": "beret"
+  },
+  "straw hat": {
+    "locations": [
+      "hat rack"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "straw hat",
+    "entity": "straw hat"
+  },
+  "derby hat": {
+    "locations": [
+      "hat rack"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "derby hat",
+    "entity": "derby hat"
+  },
+  "top hat": {
+    "locations": [
+      "hat rack"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "top hat",
+    "entity": "top hat"
+  },
+  "white belt": {
+    "locations": [
+      "wardrobe",
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "white belt",
+    "entity": "belt"
+  },
+  "black belt": {
+    "locations": [
+      "wardrobe",
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "black belt",
+    "entity": "belt"
+  },
+  "gray belt": {
+    "locations": [
+      "wardrobe",
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "gray belt",
+    "entity": "belt"
+  },
+  "blue belt": {
+    "locations": [
+      "wardrobe",
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "blue belt",
+    "entity": "belt"
+  },
+  "brown belt": {
+    "locations": [
+      "wardrobe",
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "brown belt",
+    "entity": "belt"
+  },
+  "dirty white blazer": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty white blazer",
+    "entity": "blazer"
+  },
+  "clean white blazer": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean white blazer",
+    "entity": "blazer"
+  },
+  "wet black blazer": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet black blazer",
+    "entity": "blazer"
+  },
+  "clean black blazer": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean black blazer",
+    "entity": "blazer"
+  },
+  "wet gray blazer": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet gray blazer",
+    "entity": "blazer"
+  },
+  "clean gray blazer": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean gray blazer",
+    "entity": "blazer"
+  },
+  "dirty blue blazer": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty blue blazer",
+    "entity": "blazer"
+  },
+  "clean blue blazer": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean blue blazer",
+    "entity": "blazer"
+  },
+  "dirty brown blazer": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty brown blazer",
+    "entity": "blazer"
+  },
+  "clean brown blazer": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean brown blazer",
+    "entity": "blazer"
+  },
+  "wet striped blazer": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet striped blazer",
+    "entity": "blazer"
+  },
+  "clean striped blazer": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean striped blazer",
+    "entity": "blazer"
+  },
+  "wet plaid blazer": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet plaid blazer",
+    "entity": "blazer"
+  },
+  "clean plaid blazer": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean plaid blazer",
+    "entity": "blazer"
+  },
+  "dirty checkered blazer": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty checkered blazer",
+    "entity": "blazer"
+  },
+  "clean checkered blazer": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean checkered blazer",
+    "entity": "blazer"
+  },
+  "bow tie": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "bow tie",
+    "entity": "bow tie"
+  },
+  "wet white bra": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet white bra",
+    "entity": "bra"
+  },
+  "clean white bra": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean white bra",
+    "entity": "bra"
+  },
+  "dirty black bra": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty black bra",
+    "entity": "bra"
+  },
+  "clean black bra": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean black bra",
+    "entity": "bra"
+  },
+  "wet gray bra": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet gray bra",
+    "entity": "bra"
+  },
+  "clean gray bra": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean gray bra",
+    "entity": "bra"
+  },
+  "wet blue bra": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet blue bra",
+    "entity": "bra"
+  },
+  "clean blue bra": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean blue bra",
+    "entity": "bra"
+  },
+  "dirty brown bra": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty brown bra",
+    "entity": "bra"
+  },
+  "clean brown bra": {
+    "locations": [
+      "chest of drawers",
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean brown bra",
+    "entity": "bra"
+  },
+  "wet cardigan": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet cardigan",
+    "entity": "cardigan"
+  },
+  "clean cardigan": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean cardigan",
+    "entity": "cardigan"
+  },
+  "wet cargo pants": {
+    "indefinite": "a pair of",
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet cargo pants",
+    "entity": "cargo pants"
+  },
+  "clean cargo pants": {
+    "indefinite": "a pair of",
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean cargo pants",
+    "entity": "cargo pants"
+  },
+  "dirty white dress": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty white dress",
+    "entity": "dress"
+  },
+  "clean white dress": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean white dress",
+    "entity": "dress"
+  },
+  "wet yellow dress": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet yellow dress",
+    "entity": "dress"
+  },
+  "clean yellow dress": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean yellow dress",
+    "entity": "dress"
+  },
+  "dirty blue dress": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty blue dress",
+    "entity": "dress"
+  },
+  "clean blue dress": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean blue dress",
+    "entity": "dress"
+  },
+  "dirty red dress": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty red dress",
+    "entity": "dress"
+  },
+  "clean red dress": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean red dress",
+    "entity": "dress"
+  },
+  "wet green dress": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet green dress",
+    "entity": "dress"
+  },
+  "clean green dress": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean green dress",
+    "entity": "dress"
+  },
+  "wet black dress": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet black dress",
+    "entity": "dress"
+  },
+  "clean black dress": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean black dress",
+    "entity": "dress"
+  },
+  "dirty brown dress": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty brown dress",
+    "entity": "dress"
+  },
+  "clean brown dress": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean brown dress",
+    "entity": "dress"
+  },
+  "dirty azure dress": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty azure dress",
+    "entity": "dress"
+  },
+  "clean azure dress": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean azure dress",
+    "entity": "dress"
+  },
+  "dirty teal dress": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty teal dress",
+    "entity": "dress"
+  },
+  "clean teal dress": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean teal dress",
+    "entity": "dress"
+  },
+  "wet purple dress": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet purple dress",
+    "entity": "dress"
+  },
+  "clean purple dress": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean purple dress",
+    "entity": "dress"
+  },
+  "wet gray dress": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet gray dress",
+    "entity": "dress"
+  },
+  "clean gray dress": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean gray dress",
+    "entity": "dress"
+  },
+  "wet orange dress": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet orange dress",
+    "entity": "dress"
+  },
+  "clean orange dress": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean orange dress",
+    "entity": "dress"
+  },
+  "wet maroon dress": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet maroon dress",
+    "entity": "dress"
+  },
+  "clean maroon dress": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean maroon dress",
+    "entity": "dress"
+  },
+  "wet magenta dress": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet magenta dress",
+    "entity": "dress"
+  },
+  "clean magenta dress": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean magenta dress",
+    "entity": "dress"
+  },
+  "dirty dress pants": {
+    "indefinite": "a pair of",
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty dress pants",
+    "entity": "dress pants"
+  },
+  "clean dress pants": {
+    "indefinite": "a pair of",
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean dress pants",
+    "entity": "dress pants"
+  },
+  "white gloves": {
+    "indefinite": "a pair of",
+    "locations": [
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "white gloves",
+    "entity": "gloves"
+  },
+  "black gloves": {
+    "indefinite": "a pair of",
+    "locations": [
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "black gloves",
+    "entity": "gloves"
+  },
+  "gray gloves": {
+    "indefinite": "a pair of",
+    "locations": [
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "gray gloves",
+    "entity": "gloves"
+  },
+  "blue gloves": {
+    "indefinite": "a pair of",
+    "locations": [
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "blue gloves",
+    "entity": "gloves"
+  },
+  "brown gloves": {
+    "indefinite": "a pair of",
+    "locations": [
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "brown gloves",
+    "entity": "gloves"
+  },
+  "dirty gym clothes": {
+    "indefinite": "some",
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty gym clothes",
+    "entity": "gym clothes"
+  },
+  "clean gym clothes": {
+    "indefinite": "some",
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean gym clothes",
+    "entity": "gym clothes"
+  },
+  "wet hawaiian shirt": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet hawaiian shirt",
+    "entity": "hawaiian shirt"
+  },
+  "clean hawaiian shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean hawaiian shirt",
+    "entity": "hawaiian shirt"
+  },
+  "dirty hoodie": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty hoodie",
+    "entity": "hoodie"
+  },
+  "clean hoodie": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean hoodie",
+    "entity": "hoodie"
+  },
+  "wet jacket": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet jacket",
+    "entity": "jacket"
+  },
+  "clean jacket": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean jacket",
+    "entity": "jacket"
+  },
+  "dirty jeans": {
+    "indefinite": "a pair of",
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty jeans",
+    "entity": "jeans"
+  },
+  "clean jeans": {
+    "indefinite": "a pair of",
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean jeans",
+    "entity": "jeans"
+  },
+  "wet white jumper": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet white jumper",
+    "entity": "jumper"
+  },
+  "clean white jumper": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean white jumper",
+    "entity": "jumper"
+  },
+  "wet black jumper": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet black jumper",
+    "entity": "jumper"
+  },
+  "clean black jumper": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean black jumper",
+    "entity": "jumper"
+  },
+  "wet gray jumper": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet gray jumper",
+    "entity": "jumper"
+  },
+  "clean gray jumper": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean gray jumper",
+    "entity": "jumper"
+  },
+  "dirty blue jumper": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty blue jumper",
+    "entity": "jumper"
+  },
+  "clean blue jumper": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean blue jumper",
+    "entity": "jumper"
+  },
+  "wet brown jumper": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet brown jumper",
+    "entity": "jumper"
+  },
+  "clean brown jumper": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean brown jumper",
+    "entity": "jumper"
+  },
+  "wet striped jumper": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet striped jumper",
+    "entity": "jumper"
+  },
+  "clean striped jumper": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean striped jumper",
+    "entity": "jumper"
+  },
+  "wet plaid jumper": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet plaid jumper",
+    "entity": "jumper"
+  },
+  "clean plaid jumper": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean plaid jumper",
+    "entity": "jumper"
+  },
+  "wet checkered jumper": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet checkered jumper",
+    "entity": "jumper"
+  },
+  "clean checkered jumper": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean checkered jumper",
+    "entity": "jumper"
+  },
+  "long coat": {
+    "locations": [
+      "wardrobe",
+      "coat hanger"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "long coat",
+    "entity": "long coat"
+  },
+  "raincoat": {
+    "locations": [
+      "wardrobe",
+      "coat hanger"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "raincoat",
+    "entity": "raincoat"
+  },
+  "dirty long-sleeve top": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty long-sleeve top",
+    "entity": "long-sleeve top"
+  },
+  "clean long-sleeve top": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean long-sleeve top",
+    "entity": "long-sleeve top"
+  },
+  "dirty white polo shirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty white polo shirt",
+    "entity": "polo shirt"
+  },
+  "clean white polo shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean white polo shirt",
+    "entity": "polo shirt"
+  },
+  "dirty black polo shirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty black polo shirt",
+    "entity": "polo shirt"
+  },
+  "clean black polo shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean black polo shirt",
+    "entity": "polo shirt"
+  },
+  "wet gray polo shirt": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet gray polo shirt",
+    "entity": "polo shirt"
+  },
+  "clean gray polo shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean gray polo shirt",
+    "entity": "polo shirt"
+  },
+  "wet blue polo shirt": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet blue polo shirt",
+    "entity": "polo shirt"
+  },
+  "clean blue polo shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean blue polo shirt",
+    "entity": "polo shirt"
+  },
+  "dirty brown polo shirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty brown polo shirt",
+    "entity": "polo shirt"
+  },
+  "clean brown polo shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean brown polo shirt",
+    "entity": "polo shirt"
+  },
+  "dirty striped polo shirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty striped polo shirt",
+    "entity": "polo shirt"
+  },
+  "clean striped polo shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean striped polo shirt",
+    "entity": "polo shirt"
+  },
+  "wet plaid polo shirt": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet plaid polo shirt",
+    "entity": "polo shirt"
+  },
+  "clean plaid polo shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean plaid polo shirt",
+    "entity": "polo shirt"
+  },
+  "wet checkered polo shirt": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet checkered polo shirt",
+    "entity": "polo shirt"
+  },
+  "clean checkered polo shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean checkered polo shirt",
+    "entity": "polo shirt"
+  },
+  "wet white pullover": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet white pullover",
+    "entity": "pullover"
+  },
+  "clean white pullover": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean white pullover",
+    "entity": "pullover"
+  },
+  "dirty black pullover": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty black pullover",
+    "entity": "pullover"
+  },
+  "clean black pullover": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean black pullover",
+    "entity": "pullover"
+  },
+  "wet gray pullover": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet gray pullover",
+    "entity": "pullover"
+  },
+  "clean gray pullover": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean gray pullover",
+    "entity": "pullover"
+  },
+  "wet blue pullover": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet blue pullover",
+    "entity": "pullover"
+  },
+  "clean blue pullover": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean blue pullover",
+    "entity": "pullover"
+  },
+  "dirty brown pullover": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty brown pullover",
+    "entity": "pullover"
+  },
+  "clean brown pullover": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean brown pullover",
+    "entity": "pullover"
+  },
+  "wet striped pullover": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet striped pullover",
+    "entity": "pullover"
+  },
+  "clean striped pullover": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean striped pullover",
+    "entity": "pullover"
+  },
+  "wet plaid pullover": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet plaid pullover",
+    "entity": "pullover"
+  },
+  "clean plaid pullover": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean plaid pullover",
+    "entity": "pullover"
+  },
+  "dirty checkered pullover": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty checkered pullover",
+    "entity": "pullover"
+  },
+  "clean checkered pullover": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean checkered pullover",
+    "entity": "pullover"
+  },
+  "scarf": {
+    "locations": [
+      "chest of drawers",
+      "coat hanger"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "scarf",
+    "entity": "scarf"
+  },
+  "dirty sheath dress": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty sheath dress",
+    "entity": "sheath dress"
+  },
+  "clean sheath dress": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean sheath dress",
+    "entity": "sheath dress"
+  },
+  "dirty white shirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty white shirt",
+    "entity": "shirt"
+  },
+  "clean white shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean white shirt",
+    "entity": "shirt"
+  },
+  "dirty black shirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty black shirt",
+    "entity": "shirt"
+  },
+  "clean black shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean black shirt",
+    "entity": "shirt"
+  },
+  "dirty gray shirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty gray shirt",
+    "entity": "shirt"
+  },
+  "clean gray shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean gray shirt",
+    "entity": "shirt"
+  },
+  "dirty blue shirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty blue shirt",
+    "entity": "shirt"
+  },
+  "clean blue shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean blue shirt",
+    "entity": "shirt"
+  },
+  "dirty brown shirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty brown shirt",
+    "entity": "shirt"
+  },
+  "clean brown shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean brown shirt",
+    "entity": "shirt"
+  },
+  "wet striped shirt": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet striped shirt",
+    "entity": "shirt"
+  },
+  "clean striped shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean striped shirt",
+    "entity": "shirt"
+  },
+  "dirty plaid shirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty plaid shirt",
+    "entity": "shirt"
+  },
+  "clean plaid shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean plaid shirt",
+    "entity": "shirt"
+  },
+  "dirty checkered shirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty checkered shirt",
+    "entity": "shirt"
+  },
+  "clean checkered shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean checkered shirt",
+    "entity": "shirt"
+  },
+  "wet shorts": {
+    "indefinite": "a pair of",
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet shorts",
+    "entity": "shorts"
+  },
+  "clean shorts": {
+    "indefinite": "a pair of",
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean shorts",
+    "entity": "shorts"
+  },
+  "dirty singlet": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty singlet",
+    "entity": "singlet"
+  },
+  "clean singlet": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean singlet",
+    "entity": "singlet"
+  },
+  "wet white skirt": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet white skirt",
+    "entity": "skirt"
+  },
+  "clean white skirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean white skirt",
+    "entity": "skirt"
+  },
+  "dirty yellow skirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty yellow skirt",
+    "entity": "skirt"
+  },
+  "clean yellow skirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean yellow skirt",
+    "entity": "skirt"
+  },
+  "wet blue skirt": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet blue skirt",
+    "entity": "skirt"
+  },
+  "clean blue skirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean blue skirt",
+    "entity": "skirt"
+  },
+  "dirty red skirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty red skirt",
+    "entity": "skirt"
+  },
+  "clean red skirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean red skirt",
+    "entity": "skirt"
+  },
+  "wet green skirt": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet green skirt",
+    "entity": "skirt"
+  },
+  "clean green skirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean green skirt",
+    "entity": "skirt"
+  },
+  "dirty black skirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty black skirt",
+    "entity": "skirt"
+  },
+  "clean black skirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean black skirt",
+    "entity": "skirt"
+  },
+  "dirty brown skirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty brown skirt",
+    "entity": "skirt"
+  },
+  "clean brown skirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean brown skirt",
+    "entity": "skirt"
+  },
+  "dirty azure skirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty azure skirt",
+    "entity": "skirt"
+  },
+  "clean azure skirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean azure skirt",
+    "entity": "skirt"
+  },
+  "wet teal skirt": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet teal skirt",
+    "entity": "skirt"
+  },
+  "clean teal skirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean teal skirt",
+    "entity": "skirt"
+  },
+  "dirty purple skirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty purple skirt",
+    "entity": "skirt"
+  },
+  "clean purple skirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean purple skirt",
+    "entity": "skirt"
+  },
+  "wet gray skirt": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet gray skirt",
+    "entity": "skirt"
+  },
+  "clean gray skirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean gray skirt",
+    "entity": "skirt"
+  },
+  "wet orange skirt": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet orange skirt",
+    "entity": "skirt"
+  },
+  "clean orange skirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean orange skirt",
+    "entity": "skirt"
+  },
+  "wet maroon skirt": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet maroon skirt",
+    "entity": "skirt"
+  },
+  "clean maroon skirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean maroon skirt",
+    "entity": "skirt"
+  },
+  "dirty magenta skirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty magenta skirt",
+    "entity": "skirt"
+  },
+  "clean magenta skirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean magenta skirt",
+    "entity": "skirt"
+  },
+  "dirty sleeveless shirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty sleeveless shirt",
+    "entity": "sleeveless shirt"
+  },
+  "clean sleeveless shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean sleeveless shirt",
+    "entity": "sleeveless shirt"
+  },
+  "wet white socks": {
+    "indefinite": "a pair of",
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet white socks",
+    "entity": "socks"
+  },
+  "clean white socks": {
+    "indefinite": "a pair of",
+    "locations": [
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean white socks",
+    "entity": "socks"
+  },
+  "wet black socks": {
+    "indefinite": "a pair of",
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet black socks",
+    "entity": "socks"
+  },
+  "clean black socks": {
+    "indefinite": "a pair of",
+    "locations": [
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean black socks",
+    "entity": "socks"
+  },
+  "wet gray socks": {
+    "indefinite": "a pair of",
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet gray socks",
+    "entity": "socks"
+  },
+  "clean gray socks": {
+    "indefinite": "a pair of",
+    "locations": [
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean gray socks",
+    "entity": "socks"
+  },
+  "wet blue socks": {
+    "indefinite": "a pair of",
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet blue socks",
+    "entity": "socks"
+  },
+  "clean blue socks": {
+    "indefinite": "a pair of",
+    "locations": [
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean blue socks",
+    "entity": "socks"
+  },
+  "dirty brown socks": {
+    "indefinite": "a pair of",
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty brown socks",
+    "entity": "socks"
+  },
+  "clean brown socks": {
+    "indefinite": "a pair of",
+    "locations": [
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean brown socks",
+    "entity": "socks"
+  },
+  "wet striped socks": {
+    "indefinite": "a pair of",
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet striped socks",
+    "entity": "socks"
+  },
+  "clean striped socks": {
+    "indefinite": "a pair of",
+    "locations": [
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean striped socks",
+    "entity": "socks"
+  },
+  "dirty plaid socks": {
+    "indefinite": "a pair of",
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty plaid socks",
+    "entity": "socks"
+  },
+  "clean plaid socks": {
+    "indefinite": "a pair of",
+    "locations": [
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean plaid socks",
+    "entity": "socks"
+  },
+  "wet checkered socks": {
+    "indefinite": "a pair of",
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet checkered socks",
+    "entity": "socks"
+  },
+  "clean checkered socks": {
+    "indefinite": "a pair of",
+    "locations": [
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean checkered socks",
+    "entity": "socks"
+  },
+  "striped suit": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "striped suit",
+    "entity": "suit"
+  },
+  "plaid suit": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "plaid suit",
+    "entity": "suit"
+  },
+  "checkered suit": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "checkered suit",
+    "entity": "suit"
+  },
+  "white suit": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "white suit",
+    "entity": "suit"
+  },
+  "black suit": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "black suit",
+    "entity": "suit"
+  },
+  "gray suit": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "gray suit",
+    "entity": "suit"
+  },
+  "blue suit": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "blue suit",
+    "entity": "suit"
+  },
+  "brown suit": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "brown suit",
+    "entity": "suit"
+  },
+  "wet sweater": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet sweater",
+    "entity": "sweater"
+  },
+  "clean sweater": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean sweater",
+    "entity": "sweater"
+  },
+  "dirty white T-shirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty white T-shirt",
+    "entity": "T-shirt"
+  },
+  "clean white T-shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean white T-shirt",
+    "entity": "T-shirt"
+  },
+  "dirty yellow T-shirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty yellow T-shirt",
+    "entity": "T-shirt"
+  },
+  "clean yellow T-shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean yellow T-shirt",
+    "entity": "T-shirt"
+  },
+  "wet blue T-shirt": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet blue T-shirt",
+    "entity": "T-shirt"
+  },
+  "clean blue T-shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean blue T-shirt",
+    "entity": "T-shirt"
+  },
+  "wet red T-shirt": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet red T-shirt",
+    "entity": "T-shirt"
+  },
+  "clean red T-shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean red T-shirt",
+    "entity": "T-shirt"
+  },
+  "dirty green T-shirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty green T-shirt",
+    "entity": "T-shirt"
+  },
+  "clean green T-shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean green T-shirt",
+    "entity": "T-shirt"
+  },
+  "wet black T-shirt": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet black T-shirt",
+    "entity": "T-shirt"
+  },
+  "clean black T-shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean black T-shirt",
+    "entity": "T-shirt"
+  },
+  "dirty brown T-shirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty brown T-shirt",
+    "entity": "T-shirt"
+  },
+  "clean brown T-shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean brown T-shirt",
+    "entity": "T-shirt"
+  },
+  "wet azure T-shirt": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet azure T-shirt",
+    "entity": "T-shirt"
+  },
+  "clean azure T-shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean azure T-shirt",
+    "entity": "T-shirt"
+  },
+  "dirty teal T-shirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty teal T-shirt",
+    "entity": "T-shirt"
+  },
+  "clean teal T-shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean teal T-shirt",
+    "entity": "T-shirt"
+  },
+  "dirty purple T-shirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty purple T-shirt",
+    "entity": "T-shirt"
+  },
+  "clean purple T-shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean purple T-shirt",
+    "entity": "T-shirt"
+  },
+  "dirty gray T-shirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty gray T-shirt",
+    "entity": "T-shirt"
+  },
+  "clean gray T-shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean gray T-shirt",
+    "entity": "T-shirt"
+  },
+  "dirty orange T-shirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty orange T-shirt",
+    "entity": "T-shirt"
+  },
+  "clean orange T-shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean orange T-shirt",
+    "entity": "T-shirt"
+  },
+  "wet maroon T-shirt": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet maroon T-shirt",
+    "entity": "T-shirt"
+  },
+  "clean maroon T-shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean maroon T-shirt",
+    "entity": "T-shirt"
+  },
+  "dirty magenta T-shirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty magenta T-shirt",
+    "entity": "T-shirt"
+  },
+  "clean magenta T-shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean magenta T-shirt",
+    "entity": "T-shirt"
+  },
+  "wet striped T-shirt": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet striped T-shirt",
+    "entity": "T-shirt"
+  },
+  "clean striped T-shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean striped T-shirt",
+    "entity": "T-shirt"
+  },
+  "dirty plaid T-shirt": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty plaid T-shirt",
+    "entity": "T-shirt"
+  },
+  "clean plaid T-shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean plaid T-shirt",
+    "entity": "T-shirt"
+  },
+  "wet checkered T-shirt": {
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet checkered T-shirt",
+    "entity": "T-shirt"
+  },
+  "clean checkered T-shirt": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean checkered T-shirt",
+    "entity": "T-shirt"
+  },
+  "dirty tank top": {
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty tank top",
+    "entity": "tank top"
+  },
+  "clean tank top": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean tank top",
+    "entity": "tank top"
+  },
+  "white tie": {
+    "locations": [
+      "wardrobe",
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "white tie",
+    "entity": "tie"
+  },
+  "black tie": {
+    "locations": [
+      "wardrobe",
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "black tie",
+    "entity": "tie"
+  },
+  "gray tie": {
+    "locations": [
+      "wardrobe",
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "gray tie",
+    "entity": "tie"
+  },
+  "blue tie": {
+    "locations": [
+      "wardrobe",
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "blue tie",
+    "entity": "tie"
+  },
+  "brown tie": {
+    "locations": [
+      "wardrobe",
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "brown tie",
+    "entity": "tie"
+  },
+  "striped tie": {
+    "locations": [
+      "wardrobe",
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "striped tie",
+    "entity": "tie"
+  },
+  "plaid tie": {
+    "locations": [
+      "wardrobe",
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "plaid tie",
+    "entity": "tie"
+  },
+  "checkered tie": {
+    "locations": [
+      "wardrobe",
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "checkered tie",
+    "entity": "tie"
+  },
+  "trench coat": {
+    "locations": [
+      "wardrobe",
+      "coat hanger"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "trench coat",
+    "entity": "trench coat"
+  },
+  "wet white underpants": {
+    "indefinite": "a pair of",
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet white underpants",
+    "entity": "underpants"
+  },
+  "clean white underpants": {
+    "indefinite": "a pair of",
+    "locations": [
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean white underpants",
+    "entity": "underpants"
+  },
+  "wet black underpants": {
+    "indefinite": "a pair of",
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet black underpants",
+    "entity": "underpants"
+  },
+  "clean black underpants": {
+    "indefinite": "a pair of",
+    "locations": [
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean black underpants",
+    "entity": "underpants"
+  },
+  "wet gray underpants": {
+    "indefinite": "a pair of",
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet gray underpants",
+    "entity": "underpants"
+  },
+  "clean gray underpants": {
+    "indefinite": "a pair of",
+    "locations": [
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean gray underpants",
+    "entity": "underpants"
+  },
+  "dirty white panties": {
+    "indefinite": "a pair of",
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty white panties",
+    "entity": "panties"
+  },
+  "clean white panties": {
+    "indefinite": "a pair of",
+    "locations": [
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean white panties",
+    "entity": "panties"
+  },
+  "wet black panties": {
+    "indefinite": "a pair of",
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet black panties",
+    "entity": "panties"
+  },
+  "clean black panties": {
+    "indefinite": "a pair of",
+    "locations": [
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean black panties",
+    "entity": "panties"
+  },
+  "wet gray panties": {
+    "indefinite": "a pair of",
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet gray panties",
+    "entity": "panties"
+  },
+  "clean gray panties": {
+    "indefinite": "a pair of",
+    "locations": [
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean gray panties",
+    "entity": "panties"
+  },
+  "wet white knickers": {
+    "indefinite": "a pair of",
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet white knickers",
+    "entity": "knickers"
+  },
+  "clean white knickers": {
+    "indefinite": "a pair of",
+    "locations": [
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean white knickers",
+    "entity": "knickers"
+  },
+  "dirty black knickers": {
+    "indefinite": "a pair of",
+    "locations": [
+      "washing machine",
+      "laundry basket"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "dirty black knickers",
+    "entity": "knickers"
+  },
+  "clean black knickers": {
+    "indefinite": "a pair of",
+    "locations": [
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean black knickers",
+    "entity": "knickers"
+  },
+  "wet gray knickers": {
+    "indefinite": "a pair of",
+    "locations": [
+      "clothesline",
+      "clothes drier"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "wet gray knickers",
+    "entity": "knickers"
+  },
+  "clean gray knickers": {
+    "indefinite": "a pair of",
+    "locations": [
+      "chest of drawers"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "clean gray knickers",
+    "entity": "knickers"
+  },
+  "uniform": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "uniform",
+    "entity": "uniform"
+  },
+  "vest": {
+    "locations": [
+      "wardrobe"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "vest",
+    "entity": "vest"
+  },
+  "fleece jacket": {
+    "locations": [
+      "wardrobe",
+      "coat hanger"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "fleece jacket",
+    "entity": "fleece jacket"
+  },
+  "bathrobe": {
+    "locations": [
+      "wall hook"
+    ],
+    "type": "o",
+    "category": "clothing",
+    "name": "bathrobe",
+    "entity": "bathrobe"
+  },
+  "dirty knife": {
+    "adjs": [
+      "sharp"
+    ],
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty knife",
+    "entity": "knife"
+  },
+  "clean knife": {
+    "adjs": [
+      "sharp"
+    ],
+    "locations": [
+      "cutlery drawer"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean knife",
+    "entity": "knife"
+  },
+  "dirty fork": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty fork",
+    "entity": "fork"
+  },
+  "clean fork": {
+    "locations": [
+      "cutlery drawer"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean fork",
+    "entity": "fork"
+  },
+  "dirty bowl": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty bowl",
+    "entity": "bowl"
+  },
+  "clean bowl": {
+    "locations": [
+      "kitchen cupboard"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean bowl",
+    "entity": "bowl"
+  },
+  "dirty cup": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty cup",
+    "entity": "cup"
+  },
+  "clean cup": {
+    "locations": [
+      "kitchen cupboard"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean cup",
+    "entity": "cup"
+  },
+  "dirty mug": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty mug",
+    "entity": "mug"
+  },
+  "clean mug": {
+    "locations": [
+      "kitchen cupboard"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean mug",
+    "entity": "mug"
+  },
+  "dirty glass": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty glass",
+    "entity": "glass"
+  },
+  "clean glass": {
+    "locations": [
+      "kitchen cupboard"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean glass",
+    "entity": "glass"
+  },
+  "dirty plate": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty plate",
+    "entity": "plate"
+  },
+  "clean plate": {
+    "locations": [
+      "kitchen cupboard"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean plate",
+    "entity": "plate"
+  },
+  "dirty pot": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty pot",
+    "entity": "pot"
+  },
+  "clean pot": {
+    "locations": [
+      "kitchen cupboard"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean pot",
+    "entity": "pot"
+  },
+  "dirty pan": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty pan",
+    "entity": "pan"
+  },
+  "clean pan": {
+    "locations": [
+      "kitchen cupboard"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean pan",
+    "entity": "pan"
+  },
+  "dirty saucepan": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty saucepan",
+    "entity": "saucepan"
+  },
+  "clean saucepan": {
+    "locations": [
+      "kitchen cupboard"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean saucepan",
+    "entity": "saucepan"
+  },
+  "can opener": {
+    "locations": [
+      "cutlery drawer",
+      "kitchen cupboard"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "can opener",
+    "entity": "can opener"
+  },
+  "potato peeler": {
+    "locations": [
+      "cutlery drawer",
+      "kitchen cupboard"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "potato peeler",
+    "entity": "potato peeler"
+  },
+  "rolling pin": {
+    "locations": [
+      "cutlery drawer",
+      "kitchen cupboard"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "rolling pin",
+    "entity": "rolling pin"
+  },
+  "used plastic cup": {
+    "locations": [
+      "trash can",
+      "pedal bin",
+      "wastepaper basket"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "used plastic cup",
+    "entity": "plastic cup"
+  },
+  "plastic plate": {
+    "locations": [
+      "kitchen cupboard"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "plastic plate",
+    "entity": "plastic plate"
+  },
+  "toaster": {
+    "locations": [
+      "counter"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "toaster",
+    "entity": "toaster"
+  },
+  "kettle": {
+    "locations": [
+      "kitchen cupboard",
+      "counter"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "kettle",
+    "entity": "kettle"
+  },
+  "mixer": {
+    "locations": [
+      "kitchen cupboard",
+      "counter"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "mixer",
+    "entity": "mixer"
+  },
+  "blender": {
+    "locations": [
+      "kitchen cupboard",
+      "counter"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "blender",
+    "entity": "blender"
+  },
+  "apron": {
+    "locations": [
+      "kitchen cupboard"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "apron",
+    "entity": "apron"
+  },
+  "bread basket": {
+    "locations": [
+      "kitchen cupboard"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "bread basket",
+    "entity": "bread basket"
+  },
+  "dirty roasting tray": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty roasting tray",
+    "entity": "roasting tray"
+  },
+  "clean roasting tray": {
+    "locations": [
+      "kitchen cupboard",
+      "oven"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean roasting tray",
+    "entity": "roasting tray"
+  },
+  "spice container": {
+    "locations": [
+      "kitchen cupboard",
+      "shelf"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "spice container",
+    "entity": "spice container"
+  },
+  "chopping board": {
+    "locations": [
+      "kitchen cupboard",
+      "counter"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "chopping board",
+    "entity": "chopping board"
+  },
+  "grater": {
+    "locations": [
+      "kitchen cupboard"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "grater",
+    "entity": "grater"
+  },
+  "dirty pie plate": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty pie plate",
+    "entity": "pie plate"
+  },
+  "clean pie plate": {
+    "locations": [
+      "kitchen cupboard"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean pie plate",
+    "entity": "pie plate"
+  },
+  "dirty salad spinner": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty salad spinner",
+    "entity": "salad spinner"
+  },
+  "clean salad spinner": {
+    "locations": [
+      "kitchen cupboard"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean salad spinner",
+    "entity": "salad spinner"
+  },
+  "dirty colander": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty colander",
+    "entity": "colander"
+  },
+  "clean colander": {
+    "locations": [
+      "kitchen cupboard"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean colander",
+    "entity": "colander"
+  },
+  "oven glove": {
+    "locations": [
+      "kitchen cupboard"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "oven glove",
+    "entity": "oven glove"
+  },
+  "dirty whisk": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty whisk",
+    "entity": "whisk"
+  },
+  "clean whisk": {
+    "locations": [
+      "cutlery drawer"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean whisk",
+    "entity": "whisk"
+  },
+  "wooden spoon": {
+    "locations": [
+      "cutlery drawer"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "wooden spoon",
+    "entity": "wooden spoon"
+  },
+  "dirty strainer": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty strainer",
+    "entity": "strainer"
+  },
+  "clean strainer": {
+    "locations": [
+      "cutlery drawer"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean strainer",
+    "entity": "strainer"
+  },
+  "dirty spoon": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty spoon",
+    "entity": "spoon"
+  },
+  "clean spoon": {
+    "locations": [
+      "cutlery drawer"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean spoon",
+    "entity": "spoon"
+  },
+  "dirty spatula": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty spatula",
+    "entity": "spatula"
+  },
+  "clean spatula": {
+    "locations": [
+      "cutlery drawer"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean spatula",
+    "entity": "spatula"
+  },
+  "dirty mesh skimmer": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty mesh skimmer",
+    "entity": "mesh skimmer"
+  },
+  "clean mesh skimmer": {
+    "locations": [
+      "cutlery drawer"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean mesh skimmer",
+    "entity": "mesh skimmer"
+  },
+  "dirty cleaver": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty cleaver",
+    "entity": "cleaver"
+  },
+  "clean cleaver": {
+    "locations": [
+      "cutlery drawer"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean cleaver",
+    "entity": "cleaver"
+  },
+  "dirty ladle": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty ladle",
+    "entity": "ladle"
+  },
+  "clean ladle": {
+    "locations": [
+      "cutlery drawer"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean ladle",
+    "entity": "ladle"
+  },
+  "kitchen shears": {
+    "locations": [
+      "cutlery drawer"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "kitchen shears",
+    "entity": "kitchen shears"
+  },
+  "corkscrew": {
+    "locations": [
+      "kitchen cupboard",
+      "cutlery drawer"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "corkscrew",
+    "entity": "corkscrew"
+  },
+  "dirty cake slicer": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty cake slicer",
+    "entity": "cake slicer"
+  },
+  "clean cake slicer": {
+    "locations": [
+      "cutlery drawer"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean cake slicer",
+    "entity": "cake slicer"
+  },
+  "dirty frying pan": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty frying pan",
+    "entity": "frying pan"
+  },
+  "clean frying pan": {
+    "locations": [
+      "kitchen cupboard"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean frying pan",
+    "entity": "frying pan"
+  },
+  "dirty pressure cooker": {
+    "locations": [
+      "dishwasher"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "dirty pressure cooker",
+    "entity": "pressure cooker"
+  },
+  "clean pressure cooker": {
+    "locations": [
+      "kitchen cupboard"
+    ],
+    "type": "o",
+    "category": "kitchenware",
+    "name": "clean pressure cooker",
+    "entity": "pressure cooker"
+  }
+}
