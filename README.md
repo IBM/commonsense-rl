@@ -37,9 +37,9 @@ cd embeddings
 Download https://conceptnet.s3.amazonaws.com/downloads/2019/numberbatch/numberbatch-en-19.08.txt.gz
 gzip -d numberbatch-en-19.08.txt.gz
 ```
-## IQA Cleanup Games
+## TWC Cleanup Games
 
-This directory contains a set of 45 games created based on the dataset available in the folder ```iqa_dataset``` (under ```game_generation/iqa_cleanup``` directory). 
+This directory contains a set of 45 games created based on the dataset available in the folder ```twc_dataset``` (under ```game_generation/twc_cleanup``` directory). 
 The games are grouped into three difficulty levels as follows.
 
 * **Easy level**: games in the ```easy``` directory have only *1 room and 1 object* that need to be placed in

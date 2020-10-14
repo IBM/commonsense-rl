@@ -1,9 +1,9 @@
-## IQA Cleanup Games
+## TWC Games
 
-This directory contains a set of 45 games created based on the dataset available in the folder ```iqa_dataset``` (under ```game_generation/iqa_cleanup``` directory).
+This directory contains a set of 45 games created based on the dataset available in the folder ```twc_dataset``` (under ```game_generation/twc_cleanup``` directory).
 This set of games has been generated using the script:
 ```bash
-$ ./make_cleanup_games.sh
+$ ./twc_make_game.py
 ```
 
 #### Difficulty level
@@ -19,7 +19,7 @@ More complex games can be generated with our ```game_generation``` folder.
 #### Training and test set
 For each difficulty level, _15_ cleanup games have been generated and separated into 3 directories/splits.
 * ```train```: this directory contains 5 games generated using a subset that accounts
-for two thirds of the whole list of entities defined in ```iqa_dataset```.
+for two thirds of the whole list of entities defined in ```twc_dataset```.
 * ```test```: this directory contains 5 test games that involve only the remaining entities that have not been included
 in the games used for training purposes. This set of games is meant to measure the compositional generalization
 capabilities of the agent with respect to the commonsense knowledge graph.
