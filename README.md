@@ -44,7 +44,7 @@ The games are grouped into three difficulty levels as follows.
 
 * **Easy level**: games in the ```easy``` directory have only *1 room and 1 object* that need to be placed in
 the appropriate location.
-* **Medium level**: games with a ```medium``` difficulty level have _1_ room and _3_ objects shuffled across the room. Given the high number of objects,
+* **Medium level**: games with a ```medium``` difficulty level have _1_ room and 2 or 3 objects shuffled across the room. Given the high number of objects,
     in this case we expect that the agent will need to rely more on the commonsense knowledge graph.
 * **Hard level**: games with a ```hard``` difficulty level have _1_ or _2_ rooms with 6 or 7 objects shuffled across the rooms. In this case, we expect that the agent needs to leverage other knowedge sources such as historical state description etc efficiently in addition to the commonsense knowledge.
     
