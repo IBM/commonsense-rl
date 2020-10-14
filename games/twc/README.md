@@ -1,6 +1,6 @@
 ## TWC Games
 
-This directory contains a set of 45 games created based on the dataset available in the folder ```twc_dataset``` (under ```game_generation/twc_cleanup``` directory).
+This directory contains a set of 45 games created based on the dataset available in the folder ```twc_dataset``` (under ```game_generation``` directory).
 This set of games has been generated using the script:
 ```bash
 $ ./twc_make_game.py
