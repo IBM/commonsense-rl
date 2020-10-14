@@ -5,7 +5,7 @@ The TWC dataset that defines all the entities in the games is available in the d
 
 The script ```twc_make_game.py``` allows generating TWC games with a specific number of objects and rooms.
 As an example, the following command creates and plays a random TWC game with 1 room and 3 objects.
-See the requirements and how to set up a conda environment in the main [README](../).
+See the requirements and how to set up a conda environment in the main [README](https://github.com/IBM/commonsense-rl).
 
 ```bash
 $ python twc_make_game.py --objects 3 --rooms 1 --play
