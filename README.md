@@ -128,6 +128,7 @@ If you use our TWC environment and/or the code, please cite us by including the 
     author={Keerthiram Murugesan, Mattia Atzeni, Pavan Kapanipathi, Pushkar Shukla, Sadhana Kumaravel, Gerald Tesauro, Kartik Talamadupula, Mrinmaya Sachan and Murray Campbell},
     year={2021},
     booktitle={Thirty Fifth AAAI Conference on Artificial Intelligence}
+}
 ```
 
 ```
