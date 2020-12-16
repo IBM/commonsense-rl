@@ -120,7 +120,16 @@ retrieving and encoding the commonsense knowledge effectively to solve `Text + C
 and we hope that TWC can spur further research in this direction for the text-based RL.
 
 ## Bibliographic Citations
-If you use our TWC environment and/or the code, please cite us:
+If you use our TWC environment and/or the code, please cite us by including the following articles in your work:
+
+```
+@inproceedings{murugesan2021textbased,
+    title={{Text-based RL Agents with Commonsense Knowledge: New Challenges, Environments and Baselines}},
+    author={Keerthiram Murugesan, Mattia Atzeni, Pavan Kapanipathi, Pushkar Shukla, Sadhana Kumaravel, Gerald Tesauro, Kartik Talamadupula, Mrinmaya Sachan and Murray Campbell},
+    year={2021},
+    booktitle={Thirty Fifth AAAI Conference on Artificial Intelligence}
+```
+
 ```
 @article{murugesan2020textbased,
       title={Text-based RL Agents with Commonsense Knowledge: New Challenges, Environments and Baselines}, 
