@@ -50,12 +50,13 @@ def play(agent, opt, random_action=False):
 
     for no_episode in (range(opt.nepisodes)):
         if not random_action:
-            random.seed(no_episode)
-            np.random.seed(no_episode)
-            torch.manual_seed(no_episode)
+            seed = opt.seed + no_episode
+            random.seed(seed)
+            np.random.seed(seed)
+            torch.manual_seed(seed)
             if torch.cuda.is_available():
-                torch.cuda.manual_seed(no_episode)
-            env.seed(no_episode)
+                torch.cuda.manual_seed(seed)
+            env.seed(seed)
 
         agent.start_episode(opt.batch_size)
         avg_eps_moves, avg_eps_scores, avg_eps_norm_scores = [], [], []
